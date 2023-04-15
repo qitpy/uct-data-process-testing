@@ -1,7 +1,7 @@
 # Overview
 
-Descriptions: We crawled some Job data from some websites. But we have an issues:
-`**job structure in every job file is different with each others**`
+\***\*Descriptions\*\***: We crawled Jobs data from some websites. But we have an issues:  
+`**Job structure in every job file is different with each others.**`
 
 All we need from Job data is about these fields:
 
@@ -141,3 +141,4 @@ Jobs](https://cryptojobslist.com/developer).
 - All the input job raw files is in the `/input` folder
 - All of your output will be in the `/output` folder
 - All you need to do is write your code in `handle.py` file, specifically is in `handle` function.
+-

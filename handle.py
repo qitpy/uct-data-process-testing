@@ -4,11 +4,17 @@ from src.prepare.model import Job
 
 
 def handle(job_input: str) -> Job:
+
     # print(job_input)
+
     converted_job = Job()
 
-    # ---- TODO: convert job_input to Job object ----
-    # ---- Your code ------------------------------------
+    # ----------------------------------------------------
+    # -- TODO: convert job_input to Job object
+    # -- Place Your code here
+    # -- Little note: You can create new other files as you want
+    # -- Good luck! 🤓
+    # ---------------------------------------------------
 
 
 
@@ -16,12 +22,17 @@ def handle(job_input: str) -> Job:
 
 
 
-    # Field that you need to fill in
+
+
+
+    # ---------------------------------------------------
+    # -- Fill your results in below:
+    # ---------------------------------------------------
+
     converted_job.about = ""
     converted_job.requirement = ""
     converted_job.responsibilities = ""
     converted_job.compensation = ""
-    # ---------------------------------------------------
 
     return converted_job
 
