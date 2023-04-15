@@ -1,3 +1,4 @@
+import json
 from src.prepare.model import Job
 import os
 import glob
@@ -8,15 +9,12 @@ def load_input():
     job_texts = []
     for file in glob.glob('./input/*.txt'):
         with open(file, 'r') as f:
-            job_texts.append(f.read())
+            job_texts.append({"name": os.path.basename(f.name), "text": f.read()})
 
-        # with open(file, 'r') as f:
-        #     job_texts.append(f.read())
     return job_texts
 
 
-def load_output(jobs: list[Job]):
-    for job in jobs:
-        job_id = job['_id']['$oid']
-        with open(f'./output/{job_id}.json', 'w') as f:
-            f.write(job.json())
+def load_output(job: Job, file_name: str):
+    # for job in jobs:
+    with open(f'./output/{file_name}', 'w') as f:
+        json.dump(job.dict(), f, indent=4)
