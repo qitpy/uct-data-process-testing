@@ -1,0 +1,76 @@
+## Job Description
+
+We are looking for a talented and motivated cryptography engineer with
+experience in Zero-Knowledge Proofs technology to join our team at O(1) Labs.
+We are building on the first cryptocurrency protocol with a succinct
+blockchain, Mina Protocol. This is a chance to join a small, collaborative
+team and have a ton of independence while working on fascinating problems that
+span software engineering, systems design, cryptography, and computing. We
+also offer competitive compensation both in salary and equity as well as top-
+of-the-market benefits.
+
+### **The Role**
+
+You will be helping us to shape the future of our core zero knowledge
+protocols, improving the existing proving schemes we have, and suggesting
+innovative approaches to tackle performance bottlenecks.
+
+The role includes:
+
+  * Implementing, optimizing, and reviewing code for Kimchi (our zero-knowledge proof system), Pickles (our recursion protocol), and cryptographic circuits.
+  * Writing technical specs for design and use of the crypto protocols.
+  * Writing high quality, performing, and well documented OCaml and Rust code.
+  * Clear communication and articulation of abstract ideas.
+  * Collaboration with the team of crypto engineers in a remote environment on a daily basis.
+  * Proposing new meaningful approaches based on novel cryptography research available in academia.
+  * Training new team members in zero-knowledge technology.
+  * Speaking in some ZK conferences around the world.
+  * Attending team offsites around the globe.
+
+There is no need to have prior experience in blockchain or cryptocurrency,
+however **experience in zkp-systems and OCaml are required**.
+
+It is a bonus if you have experience with Plonk or recursive zk-proofs.
+However, experience in zero knowledge proof-systems and OCaml are the only
+hard requirements; we're more interested in learning about your individual
+background!
+
+### **About Us**
+
+O(1) Labs is the team that incubated, launched and contributes to Mina
+Protocol, a Layer 1 blockchain that compresses the blockchain from hundreds of
+gigabytes down to the size of a few tweets and can scale to millions of users
+while remaining decentralized enough for cell phones to be fully verifying
+nodes. Using the power of Mina and zk technology we are at the forefront of
+building a privacy centered Web 3.0.
+
+With this work we are driving the potential to reimagine social structures. We
+believe in and are dedicated to incorporating diverse perspectives from
+conception through realization.
+
+The US base salary range for this full-time position is $218k to $260k +
+equity + benefits. Our salary ranges are determined by role and level. The
+range displayed on each job posting reflects the minimum and maximum target
+for new hire salaries for the position for remote roles. Within the range,
+individual pay is determined by role, level, and additional factors, including
+job-related skills and experience. Your recruiter can share more about the
+specific salary range during the hiring process.
+
+If you'd be interested in talking further, please get in touch by sending an
+email with your resume and the subject "ZK Cryptography Engineer" to [[email
+protected]](/cdn-cgi/l/email-protection)
+
+We are committed to building a diverse, inclusive company. People of color,
+LGBTQ individuals, women, and people with disabilities are strongly encouraged
+to apply.
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Rust Web3
+Jobs](https://cryptojobslist.com/rust), [Recruiter Crypto
+Jobs](https://cryptojobslist.com/recruiter), [Zk Web3
+Jobs](https://cryptojobslist.com/zk).
+

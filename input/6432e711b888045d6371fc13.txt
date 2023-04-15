@@ -1,0 +1,65 @@
+## Job Description
+
+ **About Coinshift** Coinshift is a leading non-custodial treasury management
+platform built on top of Gnosis safe. It provides a smart and sophisticated
+user experience layer to manage treasury ops in an efficient manner.Our
+mission is to build the most sophisticated multi-chain crypto treasury
+management platform for DAOs & companies.We are currently a hyper-growth
+business targeting an immediate $100+ billion market with a very ambitious
+vision and roadmap. We manage billions of dollars in assets currently, and
+strongly believe it’s still day 1 for Coinshift. We are backed by the best-in-
+class VC investors globally. We are and want to be run as a technology
+company, not a financial service provider, and we build our culture around
+core values of ambition, collaboration, entrepreneurship, transparency, and
+meritocracy.Since launching the MVP in June 2021, we’ve seen crazy traction
+from having nearly $150M+ in processed payments to having a billion dollars in
+assets under management. We now serve thousands of users across three
+continents and over 10 different countries. And we’re just getting started.The
+development of Coinshift v2 is underway and we are currently looking for a
+full-time backend engineer with strong skills in backend and web3
+technologies. **What will you achieve:** -You'll work with the core team to
+build new product features from start to finish: through conception, research,
+implementation, and maintenance.-You'll participate in backend architecture
+decisions and guide team members in technical knowledge with best
+practices.-You'll implement state of the art multi-chain web3 user experiences
+and actively learn about the latest developments in web3. **What skills do you
+bring:** **-Experienced leader:** You have worked at product based companies
+for more than 6 years including more than 2 years in web3 organisations, have
+participated in architecture design and deployment pipeline. You have worked
+with backend teams where you lead the team to achieve fast iterations and high
+code quality. **-Familiarity with backend technologies:** You're well versed
+with AWS technologies, Javascript, [Node.js](http://Node.js), MySQL.
+**-Familiarity with web3 technologies:** You're well versed with
+web3js/ethersjs and understand ethereum blockchain and it’s tool stack, such
+as Metamask **-Thoughtful problem-solving:** You have the ability to break
+down a problem until you get a clear and accurate understanding of the
+context. **-Navigating ambiguity in design:** You can translate high level
+designs into production-ready systems. Given clear requirements, you are
+comfortable making judgments and tradeoffs in the user experience on your own.
+**-Put users first:** You think critically about the implications of what
+you're building, and how it impacts real people's lives. **-Empathetic
+communication:** You communicate ideas clearly in plain english. In
+disagreements, you listen to other perspectives and compromise when needed.
+**-Team player:** You enjoy collaborating cross-functionally to accomplish
+shared goals, and you care about learning, growing, and helping others to do
+the same. **Nice to Haves:** -You're proficient with technologies that are
+part of our stack, including Express, Datadog.-You participate in open source
+projects and web3 hackathons, or write about web3 technology.-You have
+experience in backend integration testing and in debugging performance
+issues.We are committed to fostering diversity and inclusiveness within our
+organization, and we strongly encourage candidates of all backgrounds to
+apply, even if they don’t match all the above criteria.If you are hired, you
+will have the option of fiat/USDC payments made monthlyWe look forward to your
+application!
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [Dao Crypto
+Jobs](https://cryptojobslist.com/dao), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [Ethereum Web3
+Jobs](https://cryptojobslist.com/ethereum).
+

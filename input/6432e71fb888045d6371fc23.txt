@@ -1,0 +1,67 @@
+## Job Description
+
+Stardust is powering the Metaverse, an interconnected world of blockchain and
+NFT enabled games.
+
+We're building the future of gaming - and we don't say that lightly. Think of
+us as the foundation for Metaverse economies connecting games, finance, the
+future of work, fashion and more. The infrastructure for Ready Player One if
+you will. We're developing backend technology to power new gamer-first
+economies.
+
+As a SaaS, blockchain agnostic, platform – we offer a seamless “low code”
+integration of NFTs for game studios; and looking for players who think big,
+build bigger, and want to turn crazy ideas into reality.
+
+Are you ready to play?
+
+**ROLE**
+
+Stardust seeks a Sr. DevOps Engineer with strong AWS experience to develop
+technical architecture roadmaps for CI/CD pipelines and review and implement
+industry best practices and technologies to reduce incidents including
+response time and time to resolution.
+
+**RESPONSIBILITIES**
+
+  * Partner with the Engineering and Infrastructure team to support and extend existing CI/CD frameworks to support IT services, including enterprise network platforms
+  * Drive automation solutions for AWS focused on infrastructure provisioning, continuous integration, continuous build, test automation, monitoring automation, alerting, auto-ticketing, risk management, software life-cycle management, and AI/ML automation. 
+  * Partner with other engineering teams to streamline deployment, connectivity, security and compliance within IT supported infrastructure
+  * Participate in on call to support the AWS service deployment pipeline
+
+**QUALIFICATIONS**
+
+  * Minimum of 7 years of relevant AWS cloud experience
+  * Prior, and preferably proficient, experience with the following: 
+    * Serverless Lambda / ECS
+    * Docker
+    * CI/CD pipelines, Github Actions, CodeBuild, Spinnaker exposure 
+    * VPC networking setups, subnets, VPN connectivity
+    * Security and hardening
+    * Terraform or other infrastructure as code solutions 
+    * Python, Bash, Typescript/JS
+    * Monitoring solutions experience Cloudwatch, Datadog, Prometheus, Grafana
+  * Highly collaborative and with an internal drive for reliability and accountability
+  * Flexible and comfortable working on-call hours 
+
+**BONUS POINTS**
+
+  * Interest in gaming and / or web3
+  * Experience working in a highly regulated environment
+  * Experience in a fast-paced, high-growth company
+  * Experience in a remote-first IT environment
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Devops Crypto
+Jobs](https://cryptojobslist.com/devops), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Compliance Crypto
+Jobs](https://cryptojobslist.com/compliance), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Typescript Web3
+Jobs](https://cryptojobslist.com/typescript), [NFT Crypto
+Jobs](https://cryptojobslist.com/nft), [Finance Crypto
+Jobs](https://cryptojobslist.com/finance), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

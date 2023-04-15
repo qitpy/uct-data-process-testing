@@ -1,0 +1,106 @@
+## Job Description
+
+Art Blocks is a first of its kind platform focused on genuinely programmable
+on demand generative content that is stored immutably on the Ethereum
+Blockchain. Our team is a group of passionate builders focused on creating the
+best ecosystem for on-chain generative content. We are moving rapidly to
+create the platform for all kinds of generative design projects. To learn more
+about what we are building, please visit
+[artblocks.io/learn](https://artblocks.io/learn), follow us on Twitter
+([twitter.com/artblocks_io](https://twitter.com/artblocks_io)), or come hang
+out in our community Discord
+([discord.gg/artblocks](http://discord.gg/artblocks)).Art Blocks has multiple
+openings for curious and collaborative engineers who are excited about digital
+ownership and generative art. We are looking for candidates who are team
+oriented that treat each other with kindness and respect. We are looking to
+fill roles for engineers with varying prior experience levels–your exact level
+of experience is less important to us than your general aptitude to tackle
+hard problems, your desire to learn, your ability to work within a fast paced
+environment, and your willingness to collaborate as a team player.This
+position is a remote position–we’re looking for the best candidates to join
+our team regardless of location (though currently we are only able to hire
+candidates within the United States).
+
+### Potential Projects
+
+    * Working to scale out the Art Blocks Processing pipeline to process terabytes of data per day across the many partners who have deployed AB projects.
+    * Building reliable, performant backend services and APIs, both for internal use as well as the many third parties who rely on this data (OpenSea, OnCyber, Deca, Gallery, etc.)
+    * Researching new integrations into our pipeline to expand the rendering capabilities that Artists can utilize.
+
+### Responsibilities
+
+    * Develop and deliver on new backend features and technical infrastructure investments.
+    * Document and maintain software and technical infrastructure.
+    * Prioritize testability and reliability for both existing and new systems and components.
+    * Collaborate with other engineers and stakeholders to deliver on reliable services, APIs and other critical backend needs.
+
+### Base Requirements
+
+    * Bachelor's degree in Computer Science, Software Engineering, or a related field **OR** relevant experience developing and shipping software products.
+    * 1 year of professional experience as a programmer, software engineer, data scientist, or similar role.
+    * Experience with one or more object oriented programming language (e.g. JavaScript, Java, Python, etc.).
+    * Solid communication and collaboration skills.
+    * Highly adaptable and willing to work on a wide variety of projects and initiatives.
+    * Passion for generative art, digital ownership, or the benefits of decentralization–ideally all of the above!
+
+### Preferred Qualifications
+
+    * Experience scaling modular architectures and pipelines
+    * Experience working with and building containerized applications/services (Docker, Kubernetes)
+    * Experience with a variety of AWS products, namely: Step Functions, ECS (or EKS), Lambda, API Gateway.
+    * Excited about Infrastructure as Code, CI/general automation around DevOps, deployment and testing. 
+
+### Benefits
+
+    * Competitive salary, bonus, and equity.
+    * Health/vision/dental insurance, STD, LTD, life insurance.
+    * Competitive parental leave.
+    * Unlimited PTO: take time when you need it, but we’ll require that you take at least 20 days of PTO per year (plus 9 company holidays).
+    * Flexible hours and a supportive remote work environment.
+    * 2 company in-person team offsite meet-up weeks per year.
+    * Company provided WFH setup (laptop, monitor, headphones, keyboard, etc.) to make sure you have the hardware and tools needed to do great work.
+    * Participation in an organization that has facilitated over $20 million dollars in charitable giving.
+
+### Tech Stack
+
+    * Next.js
+    * React
+    * Node.js
+    * Typescript
+    * GraphQL
+    * Hasura
+    * The Graph
+    * Vercel
+    * Solidity
+    * Infura, Alchemy
+    * Popular web3 libraries (ethers.js, web3.js)
+    * AWS
+    * Github
+    * Asana
+
+Your experience with our specific technical stack (or any specific stack) is
+of secondary importance to us. We care much more about finding candidates who
+have solid fundamentals, general aptitude, a desire to learn, and are
+compassionate and collaborative people to work with. We understand that it
+will take time to ramp up and are excited to consider non-traditional
+candidates who are excited about what we are building. That said, we’re
+excited about the technology we’re building and our tech/productivity stack is
+included as a reference above.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Devops Web3
+Jobs](https://cryptojobslist.com/devops), [Community Crypto
+Jobs](https://cryptojobslist.com/community), [Content Web3
+Jobs](https://cryptojobslist.com/content), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Discord Crypto
+Jobs](https://cryptojobslist.com/discord), [React Crypto
+Jobs](https://cryptojobslist.com/react), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [Data Web3
+Jobs](https://cryptojobslist.com/data), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

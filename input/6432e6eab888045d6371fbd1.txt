@@ -1,0 +1,50 @@
+## Job Description
+
+Software Engineers in the data platform and clustering teams strike a balance
+between forward-looking software engineering best practices, and data
+engineering infrastructure know-how. This team partners with data scientists,
+research and product teams, helping architect, create and maintain data
+pipelines. Software Engineers in the data platform and Clustering teams have a
+deep understanding of blockchain data, are experts at understanding protocol
+schemas and nuances, build scalable AWS ingest pipelines, lambdas and
+services. We measure success by the coverage of data clustered for the various
+Chainalysis products.
+
+**In one year you’ll know you were successful if…**
+
+  * Architected and built scalable ETL/ELT pipelines for clustering
+  * Automated on-boarding of data ingestion for clustering
+  * Worked with our product teams to ensure accurate data is provided to our customers
+  * Increased coverage of clustering
+  * Contributed to the effectiveness and velocity of team deliverables
+  * You have learned new technologies and shown that you are not afraid to work outside your comfort zone
+
+**A background like this helps:**
+
+  * Deep understanding of building data pipelines, lakes and streaming services
+  * Work experience with AWS tools such as S3, Lambdas, and CDKs
+  * Proven experience with running batch and streaming based ETL/ELT pipelines in production
+  * Understanding of efficient data structures, algorithms and computational complexity
+  * Planned, built, and owned production systems
+  * Experience with Python, Java, and/or Typescript
+  * The versatility and willingness to learn new technologies on the job
+  * The ability to clearly communicate complex results to technical and non-technical audiences
+  * Bias for action
+
+**The following would differentiate you:**
+
+  * Experience with cloud environments (AWS, GCP, etc)
+  * Knowledge of blockchain technologies and protocols
+
+#LI-BD1 #LI-Remote
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Research Crypto
+Jobs](https://cryptojobslist.com/research), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [Data Web3
+Jobs](https://cryptojobslist.com/data), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

@@ -1,0 +1,34 @@
+## Job Description
+
+ **Requirements:**
+
+  * 7+ years of software engineering experience;
+  * 4+ experience with back-end development using JVM (Kotlin/Java);
+  * 2+years of experience as Team Lead;
+  * Understanding microservices' design patterns;
+  * Experience with message brokers (Kafka, RabbitMQ, SQS or similar);
+  * Experience with software testing (unit and integrations);
+  * Ability to work with technical documentation/specifications for the project;
+  * Experience with Elasticsearch.
+
+**Nice to have:**
+
+  * Ability to work in a distributed team;
+  * Experience with blockchain APIs;
+  * Experience with cryptography;
+  * Experience in front-end development (ReactJS).
+
+**A bit more about our Multinational, High-Performance (and primarily remote)
+Team** Join a highly talented multicultural team that is based all over the
+world. We have offices in San Francisco, New York, Warsaw, Amsterdam, Berlin,
+and several locations in Asia. As stated above, we make remote working
+possible by embracing our ethos, yet many teams also travel to meet in person
+every 1-2 months. We all want high degrees of autonomy and flexibility to make
+life and work fun, but transparency, accountability/ownership are the
+requisites.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time), [Remote Web3
+Jobs](https://cryptojobslist.com/remote).
+

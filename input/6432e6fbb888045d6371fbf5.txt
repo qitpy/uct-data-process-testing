@@ -1,0 +1,74 @@
+## Job Description
+
+At Eco, we’re building the future of money. Our mission is to put people’s
+money back to work for them — letting them see more upside from their money
+than they do today.
+
+We’ve created the Eco App, a digital wallet that replaces traditional banking
+services with a single, simple balance, offering users up to 5% APY rewards on
+their balance and 5% cash back at top merchants like Uber, Amazon, and more.
+Features like Bill Pay allow our users to put their financial life on
+autopilot. Even better, we reward every transaction with Eco Points, the
+world's first open rewards currency, which will fundamentally upgrade
+traditional money and reimagine how currency flows through the world. Although
+it may not seem it on the surface, Eco is a crypto-enabled company — and Eco
+Points will soon be so, too.
+
+Eco is an ambitious company on a mission to make your money work better for
+you. We need dreamers, doers, creators, and storytellers to help make this
+vision a reality. If you’re motivated by working on complex and important
+challenges that matter to everyone and want to be part of a world-class team,
+come join us!
+
+\--
+
+As a part of the Eco team helping to build on these products, the Senior
+Fullstack Engineer will help set technical goals and shepherd technical
+excellence across the engineering organization. You will use your skills to
+help strengthen our stack while also helping those around you succeed as well.
+We are not a team built on individual heroics but rather succeed and fail
+collectively as a team. Your expertise will help lay the foundation of new
+services to help propel Eco into its next phase of growth. As Eco and our team
+continue to grow there will be plenty of opportunities for mentorship and more
+exposure to leadership opportunities.
+
+**As a Senior Fullstack Engineer, you will:**
+
+  * Be the first engineer on our web team driving our technical charter and financial product as we enter this new phase of growth at Eco
+  * Integrate partner APIs and new client interfaces into our web application system to grow the range of financial products and services Eco offers 
+  * Not be a cog in the machine! We’ll need you to take ownership and work autonomously on initiatives that will span across all facets of Eco
+  * Participate in all product development phases from requirements gathering all the way up to release in production
+  * Champion a remarkable user experience by supporting our user support team in debugging user-facing issues and delivering solutions (a responsibility we take very seriously, and share teamwide)
+
+**We’re looking for you if:**
+
+  * You have 5+ years of full-stack engineering experience
+  * You develop with a focus on testability or for the purpose of performing automated tests
+  * You possess a strong understanding of security and privacy. Preserving user trust is a high priority for you
+  * You have proven a strong aptitude for learning new technologies with a good instinct for discovering defects
+  * You learn fast, are collaborative by default, and have outstanding communication skills (especially written)
+
+**Our Tech Stack:**
+
+  * React/NextJSTypescript
+  * NodeJS
+  * NestJS
+  * MongoDB
+  * Redis
+
+The target US base salary range for this full-time position is $170,000 -
+$225,000, plus tokens, equity, and best-in-class benefits. Within this range,
+individual pay is determined by a number of non-discriminatory factors such as
+relevant skills and experience. At Eco, we take a geographically neutral
+approach to compensation, meaning that we pay based on job function and level,
+not location.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [React Crypto
+Jobs](https://cryptojobslist.com/react), [Senior Crypto
+Jobs](https://cryptojobslist.com/senior).
+

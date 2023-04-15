@@ -1,0 +1,66 @@
+## Job Description
+
+Job Summary:
+
+We are seeking a skilled C++ Security Auditor with expertise in blockchain
+layer 1 development to join our team. The ideal candidate will have a strong
+background in C++ programming language and blockchain protocol development,
+with extensive experience in software development and security auditing. The
+L1 Security Auditor will be responsible for conducting security audits of
+blockchain layer 1 codebases and identifying potential vulnerabilities.
+
+**Responsibilities:**
+
+  * Conduct security audits of blockchain protocols codebases to identify vulnerabilities and potential security risks.
+
+  * Communicate with developers and key stakeholders when identifying and handling security issues.
+
+  * Implement internal tools for simplifying the audit process.
+
+  * Keep up to date with the latest security vulnerabilities, exploits, and attack techniques related to blockchain protocols and adapt audit procedures accordingly.
+
+  * Write reports detailing identified vulnerabilities and recommend remediation steps to development teams.
+
+**Requirements:**
+
+  * At least 2 years of C++ development.
+
+  * At least 4 years in software development.
+
+  * Strong understanding of C++ programming language and software development principles.
+
+  * Knowledge of blockchain technology and layer 1 protocols, including consensus algorithms, smart contracts, and virtual machines.
+
+  * Experience with security tools and techniques such as fuzz testing and static/dynamic analysis for blockchain networks.
+
+  * Strong written and verbal communication skills, with the ability to write clear and concise reports and communicate complex technical concepts to non-technical stakeholders.
+
+  * Knowledge of blockchain frameworks such as Substrate, Cosmos, etc is a plus
+
+**Additional possibilities:**
+
+  * Perform research regarding blockchain technologies.
+
+  * Participate in community meet-ups and conferences
+
+For comfortable and effective cooperation we offer:- Opportunity to influence
+and feel your impact inside the company- Work in a progressive and cutting-
+edge environment - Great opportunities for personal and career growth- Option
+to get income in USDT- Paid vacation and sick leaves- Minimum bureaucracy,
+maximum independence- Budget for conferences, seminars, and training that will
+help you grow as a professional- Flexible working hours- Remote work.
+
+If you are seeking a fulfilling job in a cutting-edge industry with the
+opportunity to impact business and master your leadership skills, don’t
+hesitate to send your CV. Please, include the salary expectation with your
+letter.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Community Web3
+Jobs](https://cryptojobslist.com/community), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Substrate Crypto
+Jobs](https://cryptojobslist.com/substrate), [Cosmos Crypto
+Jobs](https://cryptojobslist.com/cosmos), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

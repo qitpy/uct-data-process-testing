@@ -1,0 +1,38 @@
+## Job Description
+
+We are looking for an experienced smart contract engineer to help us build the
+next generation of the Uniswap Protocol. You will be responsible for
+implementing and designing smart contracts for the next generation of the most
+popular decentralized trading protocol on Ethereum. Extra points if you are
+also comfortable or interested in contributing to frontend development.
+
+### Responsibilities:
+
+  * Implement Uniswap V3 smart contracts and tests
+  * Implement and design periphery contracts for Uniswap V3
+  * Design and implement peripheral mechanisms to the Uniswap protocol
+
+### Requirements:
+
+  * 4+ years of experience building and releasing production grade Solidity contracts
+  * A deep understanding of the Ethereum Virtual Machine
+  * Prior experience deploying complex smart contract systems to the Ethereum mainnet
+
+### Nice to Haves:
+
+  * Degree in math or computer science
+  * Experience implementing complex math in Solidity
+  * Experience with React, Redux and other frontend technologies
+  * Love for unicorns :)
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Trading Crypto
+Jobs](https://cryptojobslist.com/trading), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Evm Crypto
+Jobs](https://cryptojobslist.com/evm), [React Web3
+Jobs](https://cryptojobslist.com/react), [Senior Crypto
+Jobs](https://cryptojobslist.com/senior), [Frontend Crypto
+Jobs](https://cryptojobslist.com/frontend), [Solidity Crypto
+Jobs](https://cryptojobslist.com/solidity), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

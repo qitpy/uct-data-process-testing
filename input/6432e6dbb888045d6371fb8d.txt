@@ -1,0 +1,33 @@
+## Job Description
+
+We are seeking an experienced Full Stack Web3 Developer to join our team. You
+will work closely with our product managers, designers, and other developers
+to create cutting-edge decentralized applications (dApps) that leverage
+blockchain technology.
+
+Responsibilities:
+
+  * Develop and deploy multiple decentralized applications
+  * Collaborate with cross-functional teams to design and implement new features
+  * Write high-quality, scalable, and maintainable code on the Polygon network
+  * Conduct thorough testing and debugging to ensure a seamless user experience
+  * Monitor and optimize the performance of the applications
+
+Requirements:
+
+  * Strong experience in building decentralized applications on the web3 stack
+  * Expertise in Solidity, JavaScript, React, and Node.js
+  * Familiarity with Ethereum and other blockchain technologies
+  * Experience with decentralized finance (DeFi) protocols and smart contracts
+  * Strong problem-solving skills and attention to detail
+  * Ability to work independently and as part of a team
+  * Excellent communication skillsThe devloper will have to be doxxed for safety and security reasons.
+
+If you have a passion for blockchain technology and are looking to work on
+exciting projects that push the boundaries of what is possible with web3, we
+encourage you to apply.
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3).
+

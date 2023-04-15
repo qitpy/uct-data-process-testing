@@ -1,0 +1,33 @@
+## Job Description
+
+###  **Responsibilities**
+
+  * Design, develop and test smart contracts in Solidity.
+  * Collaborate with cross-functional teams to design and implement decentralized applications (dApps) and backend infrastructure.
+  * Perform research and development in the fields of blockchain, EIPs, zero knowledge and web3.
+  * Brainstorm and design innovative blockchain-based solutions for various industries.
+  * Write clean and well-documented code that is easy to maintain
+  * Collaborate with other team members to continuously improve the development process.
+
+**Requirements** :
+
+  * 3+ years of experience as a software developer with a strong focus on smart contracts and Web3 technologies.
+  * Excellent programming skills in Solidity and JavaScript/Typescript
+  * Strong understanding of blockchain technologies and architecture.
+  * Experience with blockchain development tools such as Truffle, Ganache, Remix, and MetaMask
+  * Knowledge of data structures, algorithms, and cryptography
+  * Excellent problem-solving skills and ability to work independently or as part of a team
+  * Strong communication and collaboration skills
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Javascript Web3
+Jobs](https://cryptojobslist.com/javascript), [Typescript Web3
+Jobs](https://cryptojobslist.com/typescript), [Data Crypto
+Jobs](https://cryptojobslist.com/data), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Zk Crypto
+Jobs](https://cryptojobslist.com/zk), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote).
+

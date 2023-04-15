@@ -1,0 +1,75 @@
+## Job Description
+
+We are seeking talented interns to experience, contribute and grow at a fast-
+moving Blockchain Startup in NYC! **Why Us?** CertiK is a pioneer in
+blockchain security, leveraging best-in-class AI technology to protect and
+monitor blockchain protocols and smart contracts. Founded in 2018 by
+professors from Yale University and Columbia University, CertiK’s mission is
+to secure the web3 world. CertiK applies cutting-edge innovations from
+academia to enterprise, enabling mission-critical applications to scale with
+safety and correctness. **What We Expect you** Thriving in a fast-paced,
+dynamic working environment.Self-driven and passionate about cutting-edge
+technologies. Problem solver and fast learner with good analysis skills.Strong
+team-player and always willing to make a positive impact on the team. Good
+verbal and written communication skills.
+
+### Requirements
+
+    * Minimum of BS degree in CS or related field. Preference is MS or PhD
+    * Mastery of one or more backend languages: Python, Javascript(NodeJS), Golang, Ruby, Scala, Java, C/C++, etc.
+    * Solid computer science fundamentals in object-oriented design, data structure and algorithms, computer networks, database systems, distributed systems, etc.
+    * Excellent written communication/presentation skills, able to conduct client-facing meetings, output technical blogs addressing general/security topics, great team collaborations.
+    * CI/CD, Docker, Git, Shell, Databases, Messaging Systems, Data Processing (Spark).
+    * [Preferred] Fundamental knowledge and working experiences on Bitcoin, Ethereum (EVM), Cosmos or other industry-leading blockchain platforms.
+    * [Preferred] Strong interests and focuses on security tooling developments and researches.
+
+ **About the Company** One of the fastest-growing and most trusted companies
+in blockchain security, CertiK is a true market leader. To date, CertiK has
+worked with over 3,200 Enterprise clients, secured over $310 billion worth of
+digital assets, and has detected over 60,000 vulnerabilities in blockchain
+code. Our clients include leading projects such as Aave, Polygon, Binance
+Smart Chain, Terra, Yearn, and Chiliz.Investors = Insight Partners, Sequoia,
+Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank,
+Hillhouse Capital, Goldman Sachs, Coinbase Ventures, Binance, Shunwei Capital,
+IDG Capital, Wing, Legend Star, Danhua Capital and other investors.
+**Compensation** $2000 - $6000/month (fulltime). The exact compensation at
+which this job is filled will be determined by the skills and experience of
+qualified candidates.#blockchain#startups#hiringCertiK is proud to offer
+medical, vision, and dental insurance, 401(k) plan with company matching, life
+and accidental death and dismemberment insurance, HSA (with high deductible
+plan), FSA, and other benefits to all full-time employees, along with flexible
+paid time off and holidays. In compliance with federal law, all persons hired
+will be required to verify identity and eligibility to work in the United
+States and to complete the required employment eligibility verification form
+upon hire. CertiK is proud to be an equal opportunity employer. We will not
+discriminate against any applicant or employee on the basis of age, race,
+color, creed, religion, sex, sexual orientation, gender, gender identity or
+expression, medical condition, national origin, ancestry, citizenship, marital
+status or civil partnership/union status, physical or mental disability,
+pregnancy, childbirth, genetic information, military and veteran status, or
+any other basis prohibited by applicable federal, state or local law.CertiK
+will consider for employment qualified applicants with criminal histories in a
+manner consistent with local and federal
+requirements.<https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf>All
+CertiK employees are expected to actively support diversity on their teams,
+and in the Company.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Internship Crypto
+Jobs](https://cryptojobslist.com/internship), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Phd Crypto
+Jobs](https://cryptojobslist.com/phd), [Polygon Web3
+Jobs](https://cryptojobslist.com/polygon), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [Golang Web3
+Jobs](https://cryptojobslist.com/golang), [Compliance Crypto
+Jobs](https://cryptojobslist.com/compliance), [Evm Web3
+Jobs](https://cryptojobslist.com/evm), [Entry Level Crypto
+Jobs](https://cryptojobslist.com/entry-level), [Python Crypto
+Jobs](https://cryptojobslist.com/python), [C++ Crypto
+Jobs](https://cryptojobslist.com/c-plus-plus), [Javascript Web3
+Jobs](https://cryptojobslist.com/javascript), [Data Crypto
+Jobs](https://cryptojobslist.com/data), [Bsc Web3
+Jobs](https://cryptojobslist.com/bsc).
+

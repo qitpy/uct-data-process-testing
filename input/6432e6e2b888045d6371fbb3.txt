@@ -1,0 +1,76 @@
+## Job Description
+
+ **At Anchorage Digital we are building the world’s most advanced digital
+asset platform for institutions to participate in crypto.** Founded in 2017,
+Anchorage Digital is a regulated crypto platform that provides institutions
+with integrated financial services and infrastructure solutions. With the
+first federally chartered crypto bank in the US, Anchorage Digital offers
+institutions an unparalleled combination of secure custody, regulatory
+compliance, product breadth, and client service. We’re looking to diversify
+our team with people who are humble, creative, and eager to learn.We are a
+remote friendly, global team, but provide the option of working in-office in
+San Francisco, New York City, Indianapolis, Sioux Falls, Porto, and
+Singapore.As a core member of the Compliance Testing and Monitoring Group for
+the first ever OCC-chartered digital asset bank, the Testing and Monitoring
+Manager will impact Anchorage Digital Bank's Compliance Program through
+emerging risk and gaps identification, automating testing practices, and
+beyond.
+
+### As a Testing and Monitoring Manager you will:
+
+    * Both lead and support broader team execution of quarterly cyclical test reviews; this includes preparing in-depth, well-documented fieldwork material and data analytics, and producing clearly written issues and reports
+    * Collaborate with control owners to produce and advise on remediation plans
+    * Assist with issue management framework implementation through consistent metrics monitoring
+    * Perform validation tests on identified and closed issues
+    * Build and implement a peer QA framework to enhance testing practices
+
+### You may be a fit for this role if you have:
+
+    * 5 + years of experience leading multiple audits and/or reviews 
+    * Profound understanding of the internal control environment at a financial institution
+    * Deep knowledge of testing lifecycles and proven successful execution
+    * Demonstrated success automating controls testing
+    * Talent for writing crisp and accurate issues and reports, and the ability to manipulate data efficiently 
+    * A proven track record of delivering on projects with tight timelines and multiple complex priorities
+    * A flexible approach and demonstrated ability to pivot quickly in an ever-changing environment 
+
+### Although not a requirement, bonus points if:
+
+    * You have SQL and Python knowledge (a big plus!)
+    * You're a startup veteran, or have experience in a fast-paced innovative environment
+    * You were emotionally moved by the soundtrack to Hamilton, which chronicles the founding of a new financial system. :)
+
+ **About Anchorage Digital: Who we are** The Anchorage Village, what we call
+our team, brings together the brightest minds from platform security,
+financial services, and distributed ledger technology to provide the building
+blocks that empower institutions to safely participate in the evolving digital
+asset ecosystem. As a diverse team of more than 300 members, we are united in
+one common goal: building the future of finance by providing the foundation
+upon which value moves safely in the new global economy. Anchorage Digital is
+committed to being a welcoming and inclusive workplace for everyone, and we
+are intentional about making sure people feel respected, supported and
+connected at work—regardless of who you are or where you come from. We value
+and celebrate our differences and we believe being open about who we are
+allows us to do the best work of our lives. Anchorage Digital is an Equal
+Opportunity Employer. We do not discriminate against qualified applicants or
+employees on the basis of race, color, religion, gender identity, sex, sexual
+preference, sexual identity, pregnancy, national origin, ancestry,
+citizenship, age, marital status, physical disability, mental disability,
+medical condition, military status, or any other characteristic protected by
+federal, state, or local law, rule, or regulation.Protecting your privacy
+rights is important to Anchorage Digital, and we work to maintain the trust
+and confidence of our clients when handling personal or financial information.
+Please see our [privacy policy notices
+here.](https://www.anchorage.com/privacy-policy)
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Security Crypto
+Jobs](https://cryptojobslist.com/security), [Compliance Web3
+Jobs](https://cryptojobslist.com/compliance), [Python Crypto
+Jobs](https://cryptojobslist.com/python), [Quality Assurance Crypto
+Jobs](https://cryptojobslist.com/quality-assurance), [Finance Crypto
+Jobs](https://cryptojobslist.com/finance), [Manager Crypto
+Jobs](https://cryptojobslist.com/manager), [Data Web3
+Jobs](https://cryptojobslist.com/data), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

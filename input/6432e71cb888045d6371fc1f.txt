@@ -1,0 +1,136 @@
+## Job Description
+
+ **COMPANY**
+
+At [0x Labs](https://0x.org/), our
+[mission](https://blog.0x.org/the-0x-mission-and-values/) is to create a
+tokenized world where all value can flow freely. We’re a mission-driven and
+diverse team composed of world class talent from Coinbase, Google, Meta,
+Bitso, Citi, Spotify and other top companies. We are a remote-first and fully
+distributed company, with team members located across all of the continents
+besides Antarctica. As early pioneers in the space, we’ve made significant
+technical contributions to various Ethereum standards over the years; _fun
+fact - our team helped establish the NFT token standard (ERC721)._
+
+In joining us, you'll take part in transforming the way that value is
+exchanged on a global scale. We're passionate about open-source software and
+decentralized technology's potential to act as an equalizing force in the
+world, and our technology is deployed by a wide array of projects at the
+forefront of internet and economic advancement.
+
+Founded in 2017, 0x Labs created and now partakes in the development of 0x
+protocol: the open-source, global backbone for decentralized exchange.
+Alongside the core protocol, we also build and maintain products and service
+offerings including [Matcha](https://matcha.xyz/), the search engine for
+tokens, and [0x API](https://docs.0x.org/0x-api-swap/introduction), the
+endpoint for multi-chain aggregated liquidity. All of these offerings allow 0x
+Labs to continue marching towards our vision of building a tokenized world
+where all value can flow freely at the best prices and with the lowest
+transaction costs. This way, we can help businesses eliminate the complexity
+of accessing decentralized markets across all layers of the Web3 exchange
+stack and have more time to focus on what matters most: their product.
+
+0x currently supports 8 major blockchains: Ethereum, Polygon, Fantom,
+Avalanche, Arbitrum, Optimism, BNB Chain, and Celo, and the 0x ecosystem [has
+been rapidly expanding](https://blog.0x.org/0x-ecosystem-update-20/). With
+integrations across all of the top wallets and apps, including MetaMask,
+Coinbase Wallet and Coinbase NFT, Polygon Wallet, Brave, Matcha, dYdX, Zapper,
+Zerion, and Shapeshift, 0x is fast becoming the trusted standard for all
+decentralized exchange.
+
+We’re a remote-first company with core contributors in nearly ten countries
+and over twice as many cities. Our headquarters is in San Francisco, with an
+office available for anyone on the team to use at any time. We’ll consider
+your application regardless of where you call home.
+
+**YOUR ROLE AS AN ENGINEER AT 0X** You'll help ensure our suite of products
+remains as performant and reliable as possible, automate a variety of critical
+engineering tasks, and ensure a world-class, streamlined internal developer
+experience. You'll take a data-driven approach to optimization; your
+inclination should be to profile and benchmark existing systems, honing in on
+the highest impact improvements that should be undertaken. You care deeply
+about the reliability of your solutions and the productivity gains created for
+the rest of the engineering team. This role is deeply important to the success
+of 0x as a whole, and it comes with a high degree of ownership. You'll have
+broad freedom to take any appropriate steps toward improving our
+infrastructure. We build on a quickly evolving modern stack, and we welcome
+well-reasoned, forward-thinking technology and architectural suggestions.
+
+**RESPONSIBILITIES**
+
+  * Help ensure uptime and reliability across 0x’s suite of products and services
+  * Take ownership over our monitoring stack (Prometheus and Grafana)
+  * Automate a variety of engineering-related tasks and processes
+  * Manage and upgrade our Kubernetes infrastructure without downtime
+  * Assist in developing a robust real-time data streaming platform to be used for a variety of tasks related to data science, product development, and streamlining internal developer experience
+  * Improve internal build systems and manage/optimize CI/CD
+
+**REQUIREMENTS**
+
+  * Bachelor’s or equivalent
+  * Strong technical background and 5+ years of professional engineering experience
+  * Experience with Typescript/Go/Python/ Rust
+  * Experience with containerization and managing Kubernetes clusters
+  * Experience maintaining and scaling cloud infrastructure (AWS experience preferred)
+  * Experience with Infrastructure as Code (Terraform preferred)
+  * Sound knowledge of networking and Linux internals
+  * Passion for the benefits of decentralization and the [0x mission](https://blog.0xproject.com/the-0x-mission-and-values-181a58706f9f)
+  * Exhibit our [core values](https://blog.0xproject.com/the-0x-mission-and-values-181a58706f9f): do the right thing, consistently ship, and create enduring value.
+
+**PREFERRED**
+
+  * Experience with Apacha Kafka or other event streaming platforms
+  * Advanced knowledge of modern DevOps practices (e.g., GitOps, CI/CD pipelines)
+  * Experience interacting with Ethereum nodes
+  * Experience with peer-to-peer networking technologies
+
+**BENEFITS**
+
+  * The base salary range for this position is $95,000 - $230,000 + equity + ZRX tokens + benefits. Within the range, individual pay is determined by job-related skills, experience, location, business needs, and candidate preferences between the different compensation elements.
+
+Benefits include:
+
+    * Comprehensive insurance (medical/dental/vision/life/disability) — 100% covered for you and dependents
+    * 401k, HSA, and FSA for U.S.-based employees
+    * Monthly stipends for wifi, wellness, and pre-tax transportation expense
+    * Covered mental health benefits (included professional therapy sessions)
+    * Flexible hours, liberal work-from-home policy, and a supportive remote environment
+    * Lunch reimbursement for all employees across the globe!
+    * Stipend for your ideal remote / WFH set-up: laptop, headphones, and any other work gear you may need
+    * 12-week paid parental leave
+    * Great office conveniently located in Soma/East Cut, SF
+    * Unlimited vacation: Take time when you need it (and we really mean it)
+    * Multiple annual in-person team meet-ups around the globe
+
+Benefits are country-specific and may vary.
+
+0x Labs and its associated entities (0x) are dedicated to fostering diversity,
+inclusion, and belonging in its teams and workforce, and are proud to be equal
+opportunity employers. 0x does not make employment or hiring decisions on the
+basis of race, color, creed, religion, sex, sexual orientation, gender, gender
+expression or identity, age, disability, veteran status, marital status,
+pregnancy, citizenship, national origin, or any other basis that is protected
+by applicable local, state, or federal laws. 0x will also consider qualified
+applicants with arrest and conviction records in a way that is consistent with
+San Francisco’s Fair Chance Ordinance and similar local laws.
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Devops Crypto
+Jobs](https://cryptojobslist.com/devops), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Polygon Crypto
+Jobs](https://cryptojobslist.com/polygon), [Avalanche Crypto
+Jobs](https://cryptojobslist.com/avalanche), [Exchange Crypto
+Jobs](https://cryptojobslist.com/exchange), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [Rust Web3
+Jobs](https://cryptojobslist.com/rust), [Python Crypto
+Jobs](https://cryptojobslist.com/python), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [NFT Web3
+Jobs](https://cryptojobslist.com/nft), [Data Crypto
+Jobs](https://cryptojobslist.com/data), [Bnb Crypto
+Jobs](https://cryptojobslist.com/bnb), [Fantom Web3
+Jobs](https://cryptojobslist.com/fantom), [Ethereum Crypto
+Jobs](https://cryptojobslist.com/ethereum), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

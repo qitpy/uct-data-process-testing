@@ -1,0 +1,39 @@
+## Job Description
+
+ **About The Role**
+
+As part of the Blockchain Research team, you will be working closely with the
+engineering team to bridge between state-of-the-art research and cutting edge
+technology. The scope, as it currently stands, is open-ended, but some
+projects will likely be from the following areas: networking, consensus,
+incentives, authenticated storage, zero-knowledge proof systems, anonymous
+payments, smart-contracts, scalability and performance. The vision is to
+initiate and drive projects that are motivated by advancing Aptos and
+blockchain technology in general and publish worthwhile results in top tier
+conferences, as opposed to working on publishable results and then trying to
+find applications to blockchains.
+
+**If you are an expert on one of the following, Let’s talk!**
+
+  * Distributed Systems
+  * Cryptography
+  * Programming Languages 
+  * Game Theory
+  * Databases
+  * Security and Privacy
+
+**What we’re looking for:**
+
+  * PhDs at all levels with a passion to see their research in production
+  * Full stack Researchers with a “find a way or make one” mindset and ability to lead a research project to top tier publications as well as integration to production
+  * Great communication skills
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Research Crypto
+Jobs](https://cryptojobslist.com/research), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Phd Crypto
+Jobs](https://cryptojobslist.com/phd), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

@@ -1,0 +1,25 @@
+## Job Description
+
+###  **Job requirments:**
+
+  * Familiarity with programming in typescript/react
+  * Familiarity with Web3 concepts such as addressing, signatures, token-gating, etc.
+  * Familiarity with Solidity
+  * you will Implement new features
+  * Builds and maintains our product
+
+### **What’s in it for you:**
+
+  * Token allocation
+  * hourly payment in cash [after launch]
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [React Crypto
+Jobs](https://cryptojobslist.com/react), [Typescript Web3
+Jobs](https://cryptojobslist.com/typescript), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Javascript Web3
+Jobs](https://cryptojobslist.com/javascript), [DeFi Crypto
+Jobs](https://cryptojobslist.com/defi), [Dex Web3
+Jobs](https://cryptojobslist.com/dex).
+

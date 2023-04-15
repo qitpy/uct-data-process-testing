@@ -1,0 +1,62 @@
+## Job Description
+
+ **Bitstamp is the original Cryptocurrency Exchange.**
+
+We started small in 2011, with just two laptops and big aspirations. Fast
+forward to today and we have grown to serve over 4 million clients across the
+globe, who benefit from our commitment to security, transparency and
+regulation. Whether it’s through our intuitive web and mobile apps or arsenal
+of industry-leading APIs, Bitstamp is where crypto enters the world of
+finance.
+
+Our success is a result of the innovative ideas, talented individuals, and
+passion of our team. Together, we have helped shaped the crypto industry and
+continue to do so. We are always on the lookout for new talent and crypto-
+curious thinkers who share our passion for the future of finance.
+
+As a **QA Engineer** you'll join **Product Engineering Team** who are
+passionate about creating and optimizing the latest cryptocurrency trading
+platforms, helping to discover new practices in the financial world, designing
+and developing solutions for a global user base and developing tools for
+internal company processes.
+
+ **What you'll do**
+
+  * Review product & technical specifications/documents and provide timely feedback.
+  * Write, maintain & execute test scenarios through the product lifecycle.
+  * Design, develop and execute automation scripts using open source tools.
+  * Communicate effectively with all teams involved (e.g. project managers, product owners, engineering, etc.).
+  * Identify & track bugs, perform thorough regression testing when bugs are resolved.
+  * Stay up-to-date with new testing tools & technologies.
+
+  * Analytical problem solving/troubleshooting skills.
+  * Strong knowledge of software QA methodologies, tools and processes.
+  * Knowledge of automation testing tools is an added plus (Robot framework, Selenium, Appium Postman API).
+  * High proficiency in computer technology and basic knowledge of SQL, Python, JavaScript, HTML/CSS.
+  * Experience in writing test scenarios based on product specifications.
+  * Experience with issue & project tracking tools (e.g. JIRA) and source code management tools (e.g. Git, Bitbucket).
+  * Experience with performance and/or security testing is a plus.
+  * At least 2-years of experience in quality engineering or software development.
+
+**Logistics**
+
+  * Hybrid or 100% remote working/full time in Croatia.
+
+  * Work from home or other location that allows you to be most productive
+  * Generous home-office allowances upon joining to help set up your home space.
+  * Incentives: Financial Rewards, Bitstamp Employee Annual Awards, Employee Incentive program (EIP) etc.
+  * Sports and cultural activities, pet-friendly offices, a full fridge, teambuilding events, Bitstamp parties.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Trading Web3
+Jobs](https://cryptojobslist.com/trading), [Security Crypto
+Jobs](https://cryptojobslist.com/security), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Exchange Crypto
+Jobs](https://cryptojobslist.com/exchange), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [Quality Assurance Web3
+Jobs](https://cryptojobslist.com/quality-assurance), [Finance Web3
+Jobs](https://cryptojobslist.com/finance).
+

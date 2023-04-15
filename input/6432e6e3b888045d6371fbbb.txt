@@ -1,0 +1,53 @@
+## Job Description
+
+ **Join the leading Crypto Brand in the Philippines!** **Who we are** We are
+one of the earliest and largest crypto platforms in Southeast Asia offering
+exchange and wallet services to our users. Our product lineup also includes
+electronic payment service and e-wallet. Through our wallet, users can send
+money to anyone, pay for bills, shop online at over 100,000 merchants, receive
+money transfers from 200+ countries even without a bank account, and of course
+view and purchase cryptocurrencies.
+
+### What you'll do
+
+    * Development and enforcement of Information Security controls in the organization;
+    * Assist in the development of strategic roadmaps that align product and team developments to business requirements and top security risks;
+    * Assist development and product teams with the threat modeling, security review activities (VAPT/SAST/DAST activities etc) & triage security findings.
+    * Provide guidance to application team on application security best practices 
+    * Support remediation effort and track open issues and follow up to ensure remediation 
+    * Provide security consultancy, technical guidance, expertise and solutions.
+    * Advise and review application security design to detect potential security issues and for each issue, propose and drive remediation tasks.
+    * Help application team in developing and implementing security test and verification scripts for testing and validating security controls/issues.
+    * Define scope and review the results of security tests, reviews, and audits to ensure security assurance is achieved.
+    * Identify and assess cyber risks in the application and infrastructure..
+    * Recommend and drive cyber security solutions and initiatives to improve the cyber security of the organization.
+    * Ensure security' compliance policies/procedures are met through ongoing security reviews, audits, and exercises.
+    * Participation in incident response activities
+
+### What we expect from you
+
+    * 8+ years of experience in the Information security field in the Fintech and/or IT industry;
+    * Motivation and willingness to grow talents by providing a proper mentorship, coaching and development;
+    * CISSP/CCSP/CCSK/OSCP/CSSLP certification or its equivalent is preferred
+    * In-depth knowledge of security concepts regarding web, iOS, Android and Rest API security. Understanding of current and emerging security technologies and threats.
+    * In depth understanding of threat-attack methodologies (STRIDE, DREAD, OWASP, Attack trees, MITRE ATT&CK, etc.) and corresponding mitigations in an enterprise environment.
+    * Experienced in JAVA and Scala programming languages
+    * Proficient with methodologies, tools, best practices and processes across various cybersecurity areas.
+    * Proven experience with threat modeling and risk analysis.
+    * Ability to gather written and verbal information from multiple sources, and assess and consolidate risks to provide appropriate recommendations.
+    * Hands-on experience with penetration testing and vulnerability analysis frameworks and tools.
+    * Scripting skills in Python, shell, and PowerShell are sufficient to automate security controls;
+    * Working experience with the cloud security aspects (AWS is preferable);
+    * Knowledge of common cyber threats and vulnerabilities, protection mechanisms;
+    * Be up-to-date with the latest security development, techniques, and tools;
+    * Excellent verbal and written communication in the English and Chinese language.
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Exchange Crypto
+Jobs](https://cryptojobslist.com/exchange), [Compliance Crypto
+Jobs](https://cryptojobslist.com/compliance), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

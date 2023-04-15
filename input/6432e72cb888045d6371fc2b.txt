@@ -1,0 +1,27 @@
+## Job Description
+
+### Result-oriented and flexible.
+
+### Your responsibilities[​](https://docs.looksrare.org/about/hiring/frontend-
+engineer#your-responsibilities)
+
+  * Accurately translate designs from Adobe XD onto the LooksRare site.
+  * Contribute and innovate with a small team to help build ground-breaking product features.
+
+### Requirements[​](https://docs.looksrare.org/about/hiring/frontend-
+engineer#requirements)
+
+  * Fluent in english (>B2)
+  * A good understanding of blockchain and specifically EVM blockchains
+  * 2+ years of experience using JavaScript/Typescript
+  * A good understanding of NextJS and Ethers.js
+  * Able to write structured and clean code
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [NFT Crypto
+Jobs](https://cryptojobslist.com/nft), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [Frontend Web3
+Jobs](https://cryptojobslist.com/frontend), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Evm Web3
+Jobs](https://cryptojobslist.com/evm).
+

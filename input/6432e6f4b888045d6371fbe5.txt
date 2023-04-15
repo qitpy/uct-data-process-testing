@@ -1,0 +1,69 @@
+## Job Description
+
+OpenSea is the first and largest marketplace for [non-fungible
+tokens](https://opensea.io/blog/guides/non-fungible-tokens/), or NFTs.
+Applications for NFTs include collectibles, gaming items, domain names,
+digital art, and many other items backed by a blockchain. OpenSea is an open,
+inclusive web3 platform, where individuals can come to explore NFTs and
+connect with each other to purchase and sell NFTs. At OpenSea, we're excited
+about building a platform that supports a brand new economy based on true
+digital ownership and are proud to be recognized as [Y Combinator's
+#4](https://www.ycombinator.com/topcompanies#private_companies) ranked top
+private company.When hiring candidates, we look for signals that a candidate
+will thrive in our culture, where we default to trust, embrace feedback, grow
+rapidly, and love our work. We also know how critical it is to celebrate and
+support our differences. Employing a team rich in diverse thoughts,
+experiences and opinions enables our employees, our product and our community
+to flourish. We are dedicated to equal employment opportunities regardless of
+race, color, ancestry, religion, sex, national origin, sexual orientation,
+age, citizenship, marital status, disability, gender identity or Veteran
+status. To help facilitate this, we support remote, hybrid or onsite work at
+either New York City, San Francisco or the Silicon Valley for the majority of
+our opportunities. We are looking for a senior engineering manager who is a
+technical leader that's passionate about people growth, novel technical
+challenges and organizational development. This is an opportunity to help
+continue to build our NFT marketplace that will support our integrity as we
+grow over the next decade and beyond. In this role you will support, mentor
+and assist our Trust and Safety team in driving and deploying strategies that
+increase user trust.You will lead your engineering team in building systems
+and internal tools which will allow our users to have a safe, trustworthy and
+inspiring experience. We are looking for an individual who is both product and
+delivery-driven and is passionate about applying their knowledge and
+experience for real user impact. You will tackle head-on evolving challenges
+without clear solutions, such as transactional fraud, fake account creation,
+NFT duplicates or copies, and much more.
+
+### Responsibilities
+
+    * Manage a direct team as well as several cross-functional partnerships to come up with and deploy short & long-term strategies that remove policy-violating content and malicious actors at scale.
+    * Lead your engineering team to make effective use of, as well as improve our infrastructure and platform.
+    * Partner with our senior leadership team assisting with, but not limited to, high-level technical challenges, engineering initiatives, prioritization of work, organizational design & company strategy.
+    * Lead by example as a coach and mentor for the engineers on your team, up-leveling through guidance.
+    * Evaluate technical tradeoffs of major decisions and commit to judgment that will lead to improvements in efficiencies.
+    * Help OpenSea’s product teams design safety and abuse resistance into new products from the beginning.
+    * Create roadmaps with clear project goals, deliverables, expectations and timelines for teams.
+    * Recruiting to scale the direct team as well as OpenSea a whole.
+    * Define clear success metrics, measure the impact of your team, and communicate the results to improve future success.
+
+### Desired Experience
+
+    * Experienced in supporting, growing and motivating a product engineering team.
+    * Experienced in hands-on software development as well as managing and solving novel technical problems, specifically in the trust and safety space.
+    * Highly technical in the trust and safety domain as well as a proven track record of being an effective & thoughtful people manager.
+    * Strong written and verbal communication as well as strong business and technical acumen.
+    * Ability to juggle multiple competing priorities in a fast-paced environment.
+The base salary for this full-time position, which spans across multiple
+internal levels depending on qualifications, ranges between $180,000 -
+$340,000 plus benefits & equity.#LI-Remote
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Community Web3
+Jobs](https://cryptojobslist.com/community), [Content Crypto
+Jobs](https://cryptojobslist.com/content), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [NFT Web3
+Jobs](https://cryptojobslist.com/nft), [Manager Crypto
+Jobs](https://cryptojobslist.com/manager).
+

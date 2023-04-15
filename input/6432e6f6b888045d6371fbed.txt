@@ -1,0 +1,40 @@
+## Job Description
+
+ **Description**
+
+StarkWare is a leading start-up in the blockchain industry, focused on solving
+one of the most challenging problems facing blockchain technology today -
+Scalability.
+
+The company's core algorithm, STARK (Scalable Transparent Argument of
+Knowledge), is a game-changing solution that allows for a scalable and
+transparent verification of computational integrity in a trustless
+environment.
+
+We are looking for top students in software engineering/computer science to
+join our engineering team. The right candidate should have a maximum of 2
+semesters left until graduation at a leading university, with a high GPA.
+
+ **Responsibilities:**
+
+You will take a significant part in the development of StarkWare's systems. We
+encourage our developers of all experience levels to be involved in all stages
+of development, which enables meaningful learning, development, and rapid
+progress. Our system is built in a microservice architecture, and the code is
+written in Python, Rust, C++, Solidity, Cairo and more.
+
+**Requirements**
+
+  * Last year student in Computer Science / Software engineering at a leading university
+  * A high GPA
+  * Strong problem-solving and analytical skills
+  * Able to work a minimum 50% position (2 days/week)
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Rust Crypto
+Jobs](https://cryptojobslist.com/rust), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Part Time Web3
+Jobs](https://cryptojobslist.com/part-time).
+

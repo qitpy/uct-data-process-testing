@@ -1,0 +1,107 @@
+## Job Description
+
+### About Protocol Labs
+
+Protocol Labs drives breakthroughs in computing to push humanity forward.
+Protocol Labs is a product-development lab, but behind the protocols and tools
+we build, behind the research and implementations, are passionate people,
+teammates, and community members. Most teams in the Protocol Labs Network are
+fully distributed and work remotely around the world. Engineers, researchers,
+and operators work in the open to improve the internet — humanity's most
+important technology — as we explore new advances at the intersection of many
+exciting fields (web3, cryptography, networks, distributed systems) and
+cultures (startups, research, open-source, distributed work).
+
+### About the Stewards Team
+
+Our mission is to set direction/standards for projects, protocols, and
+architecture as well as cultivate a vibrant contributing community
+specifically for IPFS. To achieve this we steward the protocols &
+implementations, work with project teams to integrate features, keep PL open
+source projects healthy, design and implement OSS processes, insist on the
+highest standards, spot and resolve conflicts between teams, features, etc.
+(Read more of our public docs here.)
+
+The Interplanetary File System (IPFS) is a foundational technology for Web
+3.0, bringing content-addressed, peer-to-peer data into hundreds of
+applications serving millions of monthly users. We think the success of IPFS
+is just beginning - we see IPFS forming a new foundation for a distributed web
+of knowledge and computation for humans everywhere. We are growing our teams
+of contributors in Protocol Labs to help us realize the full potential of this
+technology.
+
+We are looking for an engineering manager to take over responsibility for
+managing the team of full-time contributors to some of the most widely used
+IPFS implementation in “Kubo” and “Helia”. This person will manage and grow
+our team of engineers, as well as be the technical leader for the IPFS
+protocol, and a key figure in the overall IPFS ecosystem. We are looking for
+that combination of not only being a great people manager, but also having
+great technical depth and experience stewarding big open source projects.
+
+#### As the Engineering Manager for Protocol Labs’ IPFS team, you will…
+
+  * Shepherd the development of various IPFS implementations like Kubo and Helia.
+  * Empower the IPFS community to develop additional IPFS implementations through mechanisms like public specs and regular implementer syncs. This includes working closely with the engineers and engineering leaders of other IPFS implementations.
+  * Measure the performance of web3 protocols and propose improvements with ProbeLab.
+  * Partner with other leaders to maintain Protocol Labs’ strategy for investment in IPFS, and with the community to maintain and evolve strategy for IPFS overall.
+
+#### As Engineering Manager at Protocol Labs, you will...
+
+  * Magnify the impact of multiple teams of software engineers and open source contributors in their implementation of complex, distributed systems and protocols
+  * Grow engineers’ skills, experience and confidence through regular 1:1s, coaching, actionable feedback, work and peer alignment, and career advocacy
+  * Lead, improve, and document processes for technical prioritization, planning, design, implementation and releases in harmony with and expanding open source community participation
+  * Communicate regularly with stakeholders and adjacent teams to build a shared understanding and accommodation of competing priorities
+  * Empower engineers to solve problems, fostering a balance of velocity and rigor through scalable, asynchronous decision-making practices
+  * Maintain and strengthen a team and community culture of growth, openness, trust, rigor, humility, mutual support, and psychological safety
+  * Advocate for and enhance PL’s asynchronous, autonomous, and distributed working culture
+  * Lead the process of recruiting great engineers for your project, in collaboration with PL’s recruiting team
+  * Support and guide other people-managers at Protocol Labs as a member of PL’s engineering management discipline
+
+#### You may be a fit for this role if you have…
+
+  * Demonstrable success as an engineering lead/manager fostering highly-functional, healthy, inclusive and collaborative teams
+  * Technical credibility through lengthy software engineering experience with back-end and distributed systems, networking, and infrastructure
+  * A strong desire for and history of contributions to open source projects and communities
+  * Experience working with and/or managing geographically distributed teams
+  * Significant experience building and growing diverse, high performance engineering teams
+  * An orientation towards building software and engineering infrastructure to support high-quality, enterprise-grade products
+  * Excitement and passion for the Web 3.0 space, and for working with teams both in Protocol Labs and the broader community on the shared goals of our movement
+
+#### Bonus Points for:
+
+  * Experience with or deep knowledge of cryptography, globally distributed systems, blockchain or other related domains
+  * Demonstrable open source community curation and leadership experience
+
+#### What’s it like to work at Protocol Labs?
+
+Protocol Labs' mission is to improve humanity’s most important technology, the
+Internet. We build protocols, systems, and tools to improve how it works.
+Today, we are focused on how we store, locate, and move information. Our
+projects include IPFS, Filecoin, libp2p, and more.
+
+As a distributed team, we hire anywhere in the world, and at various levels of
+experience (entry, senior, staff). We look for people with unique perspectives
+and diverse backgrounds.
+
+The base pay for this position currently ranges from $260,000 to $340,000,
+plus cryptocurrency, equity, and opportunities for upside through performance
+rewards in cryptocurrency and equity. The base pay is based on a number of
+factors and may vary depending on job-related knowledge, experience, skills,
+abilities, training, and education. We also have a great benefits package,
+including parental and other forms of leave, contributions to your retirement,
+and unlimited time off. For U.S.-based employees, we also provide competitive
+health, dental, and vision coverage for you and your family.
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Research Crypto
+Jobs](https://cryptojobslist.com/research), [Community Crypto
+Jobs](https://cryptojobslist.com/community), [Content Crypto
+Jobs](https://cryptojobslist.com/content), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [Manager Web3
+Jobs](https://cryptojobslist.com/manager), [Data Web3
+Jobs](https://cryptojobslist.com/data), [Move Web3
+Jobs](https://cryptojobslist.com/move).
+

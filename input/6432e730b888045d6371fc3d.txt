@@ -1,0 +1,48 @@
+## Job Description
+
+ **Responsibilities:**
+
+  * Development of web side of Decentralized Applications;
+  * Creating app from Figma layout;
+  * Integration with crypto Wallets and custodian solutions;
+  * Designing secure and fault-tolerant web applications;
+  * Work collaboratively across workstreams to rapidly iterate, experiment, and grow the protocol;
+  * Ensure best practice across development and testing;
+  * Code Review: Write code in a highly collaborative open source ecosystem;
+  * Work directly with the CTO on the entire front-end of the protocol and own specific workstreams to completion.
+
+### Skills and Qualifications
+
+  * Strong knowledge of React/Redux/Vue JS, Node Js
+  * Strong knowledge of JS (ES 6+);
+  * Experience with REST / GraphQL;
+  * Experience with WebPack, VueX;
+  * Enjoy WebDesign, have a few JamStack cases from Figma to Deploy
+  * Material UI/BootStrap;Understanding crypto primitives;
+  * Experience developing blockchain projects (specifically DeFi), general understanding of financial market
+  * Desire to keep up with modern best practices in software development/crypto, and shape our tech stack as we build out new systems and services
+
+### Compensation
+
+  * We pay packages that include competitive salaries. Salaries are typically between $40-60k (USD).
+  * Philosophies for a culture that show we care: Take vacation when you need it, family care, training and development (just to name a few)
+  * 100% remote, which means we encourage you to create the work environment that you thrive in.
+
+### Our values:
+
+  1. We value each individual’s right to economic freedom
+  2. We value openness, honesty, and directness. 
+  3. We value integrity.
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Vue Js Crypto
+Jobs](https://cryptojobslist.com/vue-js), [DeFi Web3
+Jobs](https://cryptojobslist.com/defi), [React Crypto
+Jobs](https://cryptojobslist.com/react), [Frontend Web3
+Jobs](https://cryptojobslist.com/frontend), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Mining Crypto
+Jobs](https://cryptojobslist.com/mining), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [Devops Web3
+Jobs](https://cryptojobslist.com/devops).
+

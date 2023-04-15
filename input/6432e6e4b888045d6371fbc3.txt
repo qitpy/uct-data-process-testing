@@ -1,0 +1,46 @@
+## Job Description
+
+There is a new opening for a position of a Senior QA Engineer in our
+blockchain development team.
+
+What we expect:
+
+Full-cycle testing, starting from requirements analysis to post-release
+verification
+
+  * Creation of auto-tests and frameworks for testing
+  * Writing and maintaining test cases
+  * Functional, integration, and regression testing 
+  * Cooperation with the team to improve processes of development and testing in order to enhance product quality
+  * Support and improvement of the testing infrastructure
+  * API testing
+
+Job requirements:
+
+  * Deep knowledge in the following areas and technologies are required:
+  * test automation on JavaScript or Python
+  * test design techniques
+  * SQL - writing queries 
+  * Understanding of the “client-server” interaction principles
+  * Understanding of application microservice architecture
+  * Experience with grpc or rest
+  * Experience with JSON
+  * Experience with blockchain is a huge advantage
+
+Job conditions:
+
+  * Really attractive monthly salary paid in line with your skills and experience
+  * A comfortable office in the center of Limassol (Cyprus)
+  * Medical insurance for our employees and their families
+  * Access to professional training, conferences, and paid educational courses
+  * Different corporate events
+  * Sports events and the company’s own sport teams
+  * Assistance in relocation and visa processing (if necessary)
+  * Corporate lending program, legal and financial backing during your adaptation in Cyprus
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Javascript Web3
+Jobs](https://cryptojobslist.com/javascript), [Trading Web3
+Jobs](https://cryptojobslist.com/trading), [Golang Crypto
+Jobs](https://cryptojobslist.com/golang), [Typescript Web3
+Jobs](https://cryptojobslist.com/typescript).
+

@@ -1,0 +1,67 @@
+## Job Description
+
+ **Engineering Intern** Remote – USA
+
+#### **About Brave**
+
+Brave is on a mission to protect the human right to privacy online. We’ve
+built a free web browser that blocks creepy ads and trackers by default, a
+private search engine with a _truly_ independent index, a browser-native
+crypto wallet, and a private ad network (opt-in!) that directly rewards you
+for your attention. And we’re just getting started. Already 75 million people
+have switched to Brave for a faster, more private web. Millions more switch
+every month.
+
+#### **Summary**
+
+Brave Premium Services Team is seeking interns for the following role:
+
+Web3 Developer Intern
+
+  * Familiarity with programming in typescript/react and/or GoLang
+  * Familiarity with asynchronous programming
+  * Familiarity with Web2 concepts such as JWTs, REST, etc.
+  * Familiarity with Web3 concepts such as addressing, signatures, token-gating, etc.
+
+#### **Requirements**
+
+If you are a student at an accredited university with a major in Computer
+Science or similar discipline and are finishing your Junior or Senior year,
+please apply asap!
+
+Prefer GPA of 3.0 or better.
+
+#### **Working at Brave**
+
+  * Industry-leader in privacy, with a research and engineering team that’s innovating every day to keep people safer online and beat Big Tech
+  * Highly competitive salaries & benefits, and generous home-office stipends
+  * Fully remote team (no office, no commute)
+  * Welcoming, humble, ridiculously smart teammates, and a truly flat org structure
+  * Opportunity to get in early at a hyper-growth company, and revolutionize the web
+  * Oh, and did we mention Brendan, our CEO & co-founder, _invented_ JavaScript?
+
+#### **United States Candidates: The salary range for this role is
+$8,000/month USD.**
+
+#### **Check us out**
+
+[LinkedIn](https://www.linkedin.com/company/brave-software/mycompany/) |[
+Glassdoor](https://www.glassdoor.com/Overview/Working-at-Brave-
+EI_IE2159279.11,16.htm) |[brave.com](http://brave.com/)
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Internship Web3
+Jobs](https://cryptojobslist.com/internship), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Golang Web3
+Jobs](https://cryptojobslist.com/golang), [Entry Level Web3
+Jobs](https://cryptojobslist.com/entry-level), [React Crypto
+Jobs](https://cryptojobslist.com/react), [Senior Crypto
+Jobs](https://cryptojobslist.com/senior), [Junior Level Web3
+Jobs](https://cryptojobslist.com/junior-level), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

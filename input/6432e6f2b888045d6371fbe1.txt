@@ -1,0 +1,98 @@
+## Job Description
+
+ **Who Are We?** Obol Labs is a remote-first research and software development
+team focused on Proof of Stake infrastructure for public blockchain networks.
+Specific topics of focus are Internet Bonds, Distributed Validator Technology,
+and Multi-Operator Validation. The core team includes 14 members spread across
+8 countries.The core team is building the Obol Network, a protocol to foster
+trust-minimized staking through multi-operator validation. This will enable
+low-trust access to Ethereum staking yield, which can be used as a core
+building block in various Web3 products. **The Network** The network can be
+best visualized as a work layer that sits directly on top of the base layer
+consensus. This work layer is designed to provide the base layer with more
+resiliency and decentralization as it scales. In this chapter of Ethereum, we
+will move on to the next great scaling challenge, which is stake
+centralization. Layers like Obol are critical to the long-term viability and
+resiliency of public networks, especially networks like Ethereum.Obol as a
+layer is focused on scaling main chain staking by providing permissionless
+access to Distributed Validators. The network utilizes a middleware
+implementation of Distributed Validator Technology (DVT), to enable the
+operation of distributed validator clusters that can preserve validators'
+current client and remote signing configurations.Similar to how roll-up
+technology laid the foundation for L2 scaling implementations, we believe DVT
+will do the same for scaling the consensus layer while preserving
+decentralization. Staking infrastructure is entering its protocol phase of
+evolution, which must include trust-minimized staking networks that can be
+plugged into at scale. We believe DVT will evolve into a widely used primitive
+and will ensure the security, resiliency, and decentralization of public
+networks.The Obol Network develops and maintains four core public goods that
+will eventually work together through circular economics: **The DV Launchpad**
+, a User Interface for bootstrapping and managing Distributed Validators
+**Charon,** a middleware Golang client that enables validators to run in a
+fault-tolerant, distributed manner **Obol Managers** , a set of solidity
+libraries for the formation of Distributed Validators tailored to different
+use cases such as DeFi, Liquid Staking, and Fractionalized Deposits **Obol
+Testnets** , a set of ongoing public incentivized testnets that enable any
+sized operator to test their deployment before serving for the Ethereum Main
+net **Sustainable Public Goods** Obol is inspired by previous work on Ethereum
+public goods and experimenting with circular economics. We believe that to
+unlock innovation in staking use cases, a credibly neutral layer must exist
+for innovation to flow and evolve vertically. Without this layer, highly
+available uptime will continue to be a moat.The Obol Network will become an
+open, community-governed, self-sustaining project over the coming months and
+years. Together we will incentivize, build, and maintain distributed validator
+technology that makes public networks a more secure and resilient foundation
+to build on top of. **Obol is looking for a Finance Associate to help support
+the founder's office scaling the financial planning and reporting of the Obol
+Labs team. This role will work across all functional areas of Obol, helping
+accountable leads with their budgeting and finance needs. These verticals
+include Business, Legal, Marketing, People and Technology.**
+
+### Responsibilities
+
+    * The primary responsibility will be to complete the US GAAP month and quarter-end close process and reporting, as well as prepare the annual statutory financial statements and [reporting **.**](http://reporting.tracking/)
+    * [Tracking](http://reporting.tracking/) payments to internal and external stakeholders
+    * Preparing budget forecasts
+    * Manage Quickbooks Online
+    * Partner with teams across the company to drive financial and strategic insight through deep goal-oriented financial analysis and long-range [planning.](http://planning.prepare/)
+    * [Prepare](http://planning.prepare/), analyze, and summarize monthly financials and key performance indicators (KPIs) reports (monthly costs, budget, runway, etc)
+    * Identify the long-term drivers of the business and will develop creative solutions to problems using qualitative and quantitative methods (e.g. market sizing to determine product prioritization, organizational planning and its effect on org. velocity, unit economics & ROI)
+
+### Requirements
+
+    * Bachelor’s degree in Accounting/Finance, Economics, Engineering or a related field preferred
+    * At Least 3 years of work experience at a consulting, banking, or tech start up 
+    * Prior experience working with Quickbooks (Mandatory), Wise, Ramp, Let’s Deel
+    * Ability to forecast and budget
+    * Ability to manage external relationships such as Audit, Tax, and Compliance
+    * Advanced skills in Excel (mandatory)
+    * Understanding and familiarity with web3 space & familiar with crypto accounting & Proactive, committed to quality, enthusiasm, and attention to detail.
+
+    * Fully Remote, flexible working hours
+    * Annual global offsite 
+    * Unlimited paid time off (Based on the Company Policy)
+    * Personal hardware & professional training budget 
+
+Join our talented team and be part of something really cool!
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Non Tech Web3
+Jobs](https://cryptojobslist.com/non-tech), [Marketing Web3
+Jobs](https://cryptojobslist.com/marketing), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Legal Web3
+Jobs](https://cryptojobslist.com/legal), [Community Crypto
+Jobs](https://cryptojobslist.com/community), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Golang Web3
+Jobs](https://cryptojobslist.com/golang), [Compliance Web3
+Jobs](https://cryptojobslist.com/compliance), [DeFi Web3
+Jobs](https://cryptojobslist.com/defi), [Finance Crypto
+Jobs](https://cryptojobslist.com/finance), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Move Crypto
+Jobs](https://cryptojobslist.com/move), [Accounting Crypto
+Jobs](https://cryptojobslist.com/accounting), [Ethereum Web3
+Jobs](https://cryptojobslist.com/ethereum), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

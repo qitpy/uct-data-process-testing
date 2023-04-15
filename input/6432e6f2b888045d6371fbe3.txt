@@ -1,0 +1,43 @@
+## Job Description
+
+ **Responsibilities**
+
+  * Be part of a Devops team, dedicated to an internal platform.
+  * Work closely with middleware teams and trading teams to improve the system reliability, scalability and security.
+  * Engage in and improve the infrastructure quality supporting the platform.
+  * Build and manage systems, infrastructure and applications through automation.
+  * Provide operational support to internal teams working on the platform.
+  * Work on improvements to bring in high efficiency, reduce latency, deploy systems faster.
+  * Practice sustainable incident response and blameless postmortems.
+  * Together with your engineering team, you will share an on-call rotation and be an escalation contact for service incidents.
+
+**Minimum Qualification**
+
+  * BS with 5 years or MS with 3 years working experience as Site Reliability Engineering (SRE) / Devops Engineer
+  * Experience with programming in at least one of the following languages: C, C++, Java, Python, or Go
+  * Experience working with trading systems from a high frequency trading shop, investment banking or crypto company
+  * Deep knowledge of Linux internals.
+  * Strong skills around observability, debugging and performance tuning, willing to dive into understanding, debugging, and improving any layer of the stack.
+  * Strong experience in managing infrastructure with providers like AWS.
+  * Strong experience in Cloud Native technologies in kubernetes, docker etc.
+  * Basic knowledge of RDBMS systems like mysql.
+  * Understanding of networking protocols such as TCP/IP.
+
+**Preferred Qualification**
+
+  * Expertise in automation tools like Ansible, Terraform.
+  * Expertise in designing, analyzing, and troubleshooting large-scale distributed systems.
+  * Systematic problem-solving approach, coupled with effective communication skills and a sense of drive.
+  * Extensive experience in supporting production systems as SRE.
+  * Experience in setting up monitoring stack for process and docker based environments.
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Devops Crypto
+Jobs](https://cryptojobslist.com/devops), [Trading Web3
+Jobs](https://cryptojobslist.com/trading), [Security Crypto
+Jobs](https://cryptojobslist.com/security), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Python Crypto
+Jobs](https://cryptojobslist.com/python), [Sre Web3
+Jobs](https://cryptojobslist.com/sre), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

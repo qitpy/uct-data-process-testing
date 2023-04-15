@@ -1,0 +1,54 @@
+## Job Description
+
+ **Amber Group** is a leader in digital asset trading, products and
+infrastructure. We work with companies ranging from token issuers, banks and
+fintech firms, to sports teams, game developers, brands and creators.
+Operating at the center of markets, we act as liquidity providers, miners and
+validators on all major exchanges, applications, and networks. Across all
+products and categories, we have turned over >$1T in volumes since inception.
+Our mission is to make our digital future a reality and shape it to be fair,
+inclusive, and kind.Our people are both dreamers and doers - a self-driven,
+entrepreneurial community who are believers in the power of decentralized
+networks. We collaborate across teams and regions, promoting a culture that is
+open, transparent, respectful and inclusive. **Our businesses** 1\.
+Institutional financial services, helping 1,000+ asset managers, hedge funds,
+corporates, and family offices invest in digital assets via API and our OTC
+desk.2. Consumer financial services with millions of customers investing in
+digital assets via our award-winning mobile app and web platforms.3. The
+emerging digital creator economy including gaming tokens, digital art, sports
+collectibles, and social tokens. **At Amber Group,** you will have the
+opportunity to work with innovative and entrepreneurial people, solve
+meaningful problems, accept challenges, and become experts in frontier fields.
+We strive to take care of our people, providing competitive incentives,
+benefits and rewards.
+
+### Job Responsibilities:
+
+    * Conduct research and statistical analysis to develop and continuously improve our mid-frequency trading strategies
+    * Assist in refining our internal database, risk management system, and backtest platform
+    * Work closely with portfolio managers on other trading related quantitative projects
+
+### Job Requirements:
+
+    * BS/MS degree in Mathematics, Statistics, Physics, Computer Science, or other related fields
+    * Strong knowledge of factor model investing and portfolio construction
+    * Strong analytical skills, experience in analyzing large datasets is a plus
+    * Solid programming skills in Python, familiar with Python libraries including Pandas, Numpy, Scipy. Experience in C++ is a plus
+    * Experience in mid to high-frequency CTA, statistical arbitrage, and option trading is a plus
+    * Immediate available is highly preferred
+
+ **Amber Group** opens its doors to the curious problem solver empowered to
+make an impact in shaping tomorrow. As a hyper-growth company since day 1, we
+continually invite talent to join our diverse, nimble and digitally-native
+teams. If this sounds like you, apply now, or get in touch with us today at
+[careers@ambergroup.io](/cdn-cgi/l/email-
+protection#85a3a6fdb3b6bea3a6fdb3b4bea3a6fdb2b7bea3a6b4b5b4bea3a6b4b5b4bea3a6b4b4b1bea3a6b4b4b0bea3a6fdb1b5bea3a6bcb2bea3a6b4b5bcbea3a6bcbdbea3a6fdb3b0bea3a6b4b4b1bea3a6b4b5b6bea3a6b4b4b1bea3a6fdb3e3bea3a6b4b4b2bea3a6b4b4b7bea3a6fdb7e0bea3a6fdb3bcbea3a6fdb3e3be).
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Trading Web3
+Jobs](https://cryptojobslist.com/trading), [Research Web3
+Jobs](https://cryptojobslist.com/research), [Community Crypto
+Jobs](https://cryptojobslist.com/community), [Python Crypto
+Jobs](https://cryptojobslist.com/python), [Junior Level Crypto
+Jobs](https://cryptojobslist.com/junior-level), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

@@ -1,0 +1,108 @@
+## Job Description
+
+ **Salary Range:** $100k - $200k (Salary + equity) _NOTE: Actual total
+compensation offer will vary based on applicant location / cost of living,
+skillsets, and level of relevant experience_ **About the company:** **Time
+zones:** Eastern (UTC -05:00) and Central European UTC (+1:00)Tessera provides
+ownership of the world’s most sought after NFTs! Working at Tessera, you will
+be building on the cutting edge of art, finance, and blockchain technology to
+help shape the future of digital collecting experiences. You will get to work,
+learn and grow with an experienced team supported by incredible partnerships
+and committed investments from developers, collectors, investors, and thought
+leaders deeply passionate about the decentralization ecosystem. You can read
+more from our medium posts here: <https://medium.com/tessera>**About the
+role:** We are looking for an exceptional backend engineer to join our team.
+They will work closely with our CTO to help architect, build, and maintain the
+foundational infrastructure and platform for our engineering team to unleash
+their capabilities and efficiency in anticipation of future growth and
+frequent production-ready releases as-well as help our data team with
+designing database architecture, data structures, pipelines, ETL processes and
+some backend software development as we build our foundation for rapid growth,
+future data science initiatives, and continued innovation in this exciting
+space! Experience with blockchain, NFTs, and DeFi is preferred. **Our Evolving
+Tech Stack** Front End: HTML, CSS, JS, [Vue.js](http://Vue.js), ReactBack End:
+Redis, MySQL, [Node.js](http://Node.js), PythonInfrastructure: AWS (S3, SQS,
+Lambda, EC2, Fargate)Automated testing: CypressWeb3: Solidity /
+EthereumIntegrations: Various APIs, browser-based crypto wallets (e.g.,
+MetaMask) etc.
+
+### What to expect
+
+    * Make a HUGE impact helping to bring ideas to reality
+    * Learn highly valuable, and complex concepts related to art, finance, and technology in a full-time job in an industry growing exponentially, on a team with some of the leading Web3 thought leaders
+    * Become a core member of a very passionate team in a friendly environment
+    * Work within a dynamic team, who challenges the status quo and champions agile working plus continuous improvement
+
+### What we’re looking for
+
+    * 3 or more years of relevant software experience in a data or backend-focused role 
+    * Minimum 3 years working with cloud-based workloads (AWS, GCP, or Azure) 
+    * Minimum 3 years of professional experience in software development
+    * Strong experience with two or more of the following languages: Python, SQL, Javascript, Bash, Scala
+    * Minimum 3 years of professional experience in supporting and building CI/CD technologies 
+    * Strong understanding of containerization (Docker, Kubernetes etc.) 
+    * Strong experience with IaC (Terraform) 
+    * Experience designing data structures, database schemas and ETL pipelines from scratch 
+    * Experience with querying and interacting with EVM & non-EVM Based blockchains 
+    * Understanding of low-level idiosyncrasies of popular blockchains including Ethereum, Solana
+    * Strong attention to detail
+    * Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment
+    * Experience with scalable cloud-based solutions
+    * A pro-active and autonomous team player, self-starter with the ability to anticipate future needs
+    * Capable of prioritizing multiple project and meeting goals without management oversight
+    * Experience in communicating with users, other technical teams, and product management to understand requirements, describe data priorities and challenges, and technical design needs
+
+### Bonus points for
+
+    * BS/MS in Computer Science, Computer Engineering, or a related engineering field 
+    * DevSecOps experience
+    * Previous experience in a rapidly scaling start-up environment
+    * Experience with workflow systems such as Apache Airflow
+    * Professional work experience using real-time streaming systems (Kafka/Kafka Connect, Spark, Flink or AWS Kinesis)
+    * Previous experience building Analytics/BI systems from scratch
+    * Previous experience building large-scale data architectures
+    * Previous experience in BI or Data Science
+
+### What we're offering
+
+    * Competitive salary (and equity) in an exciting space driving disruptive innovation
+    * The opportunity to play a key voice in our growing organization
+    * A remote work environment with competitive benefits and holidays
+    * 7 additional company holidays, including all-company week-long winter break
+    * Medical, Dental, and Vision Insurance for US-based employees
+    * Agile working environment with flexible working hours and location, career advancement, and competitive compensation package
+    * Optional offsite social events to help our employees become familiar with each other and our culture
+    * Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States
+
+If you’re convinced you are the right fit and you can’t wait to join our team,
+we look forward to hearing from you! Once you've applied, please be patient :)
+it may take us up to 2-3 weeks to get back to you! **Don’t meet every single
+requirement?** Studies have shown that women and people of color are less
+likely to apply to jobs unless they meet every single qualification. At
+Tessera we are dedicated to building a diverse, inclusive and authentic
+workplace, so if you’re excited about this role but your past experience
+doesn’t align perfectly with every qualification in the job description, we
+encourage you to apply anyways. You may be just the right candidate for this
+or other roles.
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Devops Web3
+Jobs](https://cryptojobslist.com/devops), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Evm Web3
+Jobs](https://cryptojobslist.com/evm), [Vue Js Web3
+Jobs](https://cryptojobslist.com/vue-js), [Python Crypto
+Jobs](https://cryptojobslist.com/python), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [Solana Crypto
+Jobs](https://cryptojobslist.com/solana), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [DeFi Web3
+Jobs](https://cryptojobslist.com/defi), [NFT Crypto
+Jobs](https://cryptojobslist.com/nft), [Finance Crypto
+Jobs](https://cryptojobslist.com/finance), [Frontend Crypto
+Jobs](https://cryptojobslist.com/frontend), [Data Crypto
+Jobs](https://cryptojobslist.com/data), [Solidity Crypto
+Jobs](https://cryptojobslist.com/solidity), [Ethereum Crypto
+Jobs](https://cryptojobslist.com/ethereum).
+

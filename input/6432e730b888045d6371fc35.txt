@@ -1,0 +1,61 @@
+## Job Description
+
+We are looking for an ambitious and self-driven engineer who can help support
+and grow a thriving community of developers. This is an opportunity to pave
+novel ground in crypto, pursuing an uncharted path for smart contract
+platforms and building a highly secure and decentralized settlement layer for
+blockchain-based systems.
+
+You will play a critical role in realizing the ambitions of a transformational
+Layer 1 blockchain, ensuring that the internet remains permissionless,
+ownerless and for the empowerment of all.
+
+You’ll lower the learning curve for others entering our ecosystem, becoming an
+expert guide for developers journeying through. You can work with software
+that is under active development and figure things out so others won't have
+to. We don't expect someone to know everything, but to start from a strong
+foundation, take initiative and grow.
+
+**What you'll do:**
+
+  * Take ownership of the onboarding experience, ensuring the appropriate resources are available and widely circulated in the developer community
+  * Proactively identify issues and potential solutions that drive developer adoption, facilitate an ever-improving onboarding experience
+  * Engage directly with ecosystem projects on technical support on Discord or forums, assist in debugging, showcase best technical practices
+  * Work alongside community and marketing personnel to grow and nurture the ecosystem
+  * Travel to conferences, hackathons and other crypto community events to grow and support the ecosystem
+  * Create and improve technical content: documentation, explainers, examples
+  * Maintain understanding of technologies across the industry to accurately compare and contrast the technology we create with others
+
+**Who you are:**
+
+  * 1-3 years in the crypto industry, 5+ years of engineering/development experience
+  * Demonstrated experience building or supporting decentralized applications, knowledge of how communities/ecosystems form
+  * Understanding of blockchain architectures and considerations such as UTXO/Account model, Solidity vs. Move, EVM vs. CosmWASM, Solana vs. Sui/Aptos, basic working knowledge of cryptography
+  * Comfortable operating in a space of constant evolution, that at times can be uncertain or contradictory
+  * Highly proficient in Rust and TypeScript, bonus if proficient in C, Go, or Solidity
+  * Strong communication and relationship management skills, responsive and well-organized
+  * Open Source experience is a big plus
+  * Computer Science or Computer Engineering degree, but self-taught developers are welcome to apply
+  * Fluent in both English and Chinese
+
+**What we offer:**
+
+  * A globally distributed work environment with a high degree of autonomy, agency and flexibility
+  * Small team of passionate individuals, the opportunity to build something truly novel and game-changing
+  * Collaborative, fast-paced, self-initiating culture
+  * Competitive salary
+
+Interested parties, please apply via our application link -
+https://jobs.gohire.io/nervos-network-tzqhh93f/ecosystem-support-
+engineer-120769/
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Discord Web3
+Jobs](https://cryptojobslist.com/discord), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [Community Web3
+Jobs](https://cryptojobslist.com/community), [Rust Crypto
+Jobs](https://cryptojobslist.com/rust), [Solana Crypto
+Jobs](https://cryptojobslist.com/solana).
+

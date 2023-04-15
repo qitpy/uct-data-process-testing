@@ -1,0 +1,67 @@
+## Job Description
+
+### Responsibilities
+
+As a RUST Developer you will be an internal part of our protocol team and
+contribute to our two blockchains (Litentry and TEE Sidechain). Your main
+responsibility will be to support the research and implementation within our
+[parachain](https://github.com/litentry/litentry-parachain)’s workstream.
+
+  * Implement the pallets based on Substrate and inside Intel SGX
+  * Contribute to the WASM runtime development
+  * Fix the bugs in our testnet and mainnet
+  * Write the technical [documentation](https://docs.litentry.com/)
+  * Research the latest secure computing technologies
+
+### Requirements
+
+  * Solid computer science background
+  * 4+ year experience with RUST programming or very strong C++ experience required
+  * An interest in decentralized technology and Web 3
+  * Good knowledge of Ethereum or other blockchain technologies
+  * Familiarity with Substrate and Polkadot, and experience in Intel SGX
+  * You are a quick learner and problem solver
+  * Ability to communicate effectively in English
+
+### Nice to Haves
+
+  * Experience with W3C DID / cryptography / zero knowledge proof
+  * Being an open-source contributor
+  * Having participated in hackathons
+
+### Benefits
+
+  * A competitive salary & personal development package
+  * The unique opportunity to shape a fast-growing blockchain start-up
+  * The option to work from home or in one of our shared office spaces
+  * Flexible working hours
+  * A work laptop of your choice
+  * Autonomy of work **–** we trust you and we want you to work in the way that’s most productive for you
+  * A super friendly and international team
+
+### Where We Work
+
+We are a Remote First company. Most of our team members choose to work from
+their homes. However, we currently also offer employees to use our shared
+office spaces in Berlin, Hangzhou or Munich, if they live in one of these
+cities and prefer to work in an office setting. We are open to hiring people
+who would like to work from countries within the time zones UTC to UTC+10.
+
+### Diversity
+
+We celebrate a truly diverse and inclusive company culture and are committed
+to equal employment opportunity regardless of race, color, ancestry, religion,
+sex, national origin, sexual orientation, age, marital status, disability, or
+gender identity.
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Rust Web3
+Jobs](https://cryptojobslist.com/rust), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Polkadot Web3
+Jobs](https://cryptojobslist.com/polkadot), [Substrate Web3
+Jobs](https://cryptojobslist.com/substrate), [Ethereum Crypto
+Jobs](https://cryptojobslist.com/ethereum), [Zk Web3
+Jobs](https://cryptojobslist.com/zk), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+

@@ -1,0 +1,60 @@
+## Job Description
+
+We are looking for a **protocol researcher** to join our team. Building a
+truly secure, scalable, and decentralized zero-knowledge rollup requires
+considerable research work, including solving many open problems around
+protocol and mechanism design.Your day-to-day work as a protocol researcher at
+Scroll will involve conducting research on Ethereum and layer 2 design. This
+research will need to cover a very large scope including rollup economics,
+state growth, EVM, MEV, PBS, AA, Layer 3, etc. We are looking for someone with
+a deep understanding of protocol research as well as basic coding ability. The
+ideal candidate will also be a strong communicator and writer, with an ability
+to output high quality content and to translate research ideas into terms that
+engineers can easily understand and implement.Scroll is proud to be an equal
+opportunity workplace. We are committed to equal employment opportunities
+regardless of race, color, ancestry, religion, sex, national origin, sexual
+orientation, age, citizenship, marital status, disability, gender identity, or
+veteran status. If you have a disability or special need, please let us know
+and we'll do our best to accommodate.
+
+### Job Duties
+
+    * Survey existing layer 2 and Ethereum protocols through code and papers.
+    * Propose new designs and optimizations for our layer 2 ptotocol.
+    * Propose new designs and optimizations for Ethereum (i.e. propose layer 2 related EIPs).
+    * Explore new research directions (i.e. EVM, MEV, PBS, AA, Layer 3, etc).
+    * Output high quality content (i.e. talk, blog post, research post).
+    * Keep the engineering team up to date with the latest ideas in protocol research.
+    * Establish collaborations with universities and external researchers to solve open problems.
+
+### Qualifications
+
+    * Strong interest in decentralized system and open source collaboration
+    * Familiarity with layer 2 and Ethereum infrastructure
+    * Ability to read and write academic papers, understand and propose EIPs
+    * Ability to present and explain cutting-edge crypto research to engineers clearly
+    * Experience in blockchain infrastructure development or cryptography preferred
+    * Fluency in Golang, Rust, C++, or similar languages. We work primarily in Golang and Rust, but prior experience is not mandatory.
+
+### Benefits
+
+    * Work from anywhere with flexible hours
+    * Generous paid time off
+    * Home office set up
+    * Annual growth budget
+    * Coworking membership allowance 
+    * Private healthcare in selected countries
+    * Competitive salary package
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Research Crypto
+Jobs](https://cryptojobslist.com/research), [Content Web3
+Jobs](https://cryptojobslist.com/content), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [Golang Crypto
+Jobs](https://cryptojobslist.com/golang), [Rust Web3
+Jobs](https://cryptojobslist.com/rust), [Evm Web3
+Jobs](https://cryptojobslist.com/evm), [Ethereum Web3
+Jobs](https://cryptojobslist.com/ethereum), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Zk Crypto
+Jobs](https://cryptojobslist.com/zk).
+

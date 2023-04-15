@@ -1,0 +1,68 @@
+## Job Description
+
+ **Summary**
+
+As Immunefi continues to grow, we need to expand our software engineering &
+development teams. These teams work to ensure the functionality, security &
+useability of the Immunefi platform for our Project Clients as well as our
+Whitehat Hacker Community so that we can continue to facilitate the winning of
+the largest Bug Bounties in the world!
+
+Specifically, we are looking to hire experienced & skilled JavaScript
+Developers to work on designing, developing and maintaining the complex web
+applications that make up the Immunefi platform.
+
+This is a ‘full lifecycle’ role which will involve taking requirements from
+the Product Department, carrying out feasibility studies, producing
+engineering review & assessment documents, looping back to Product for
+refining, creating the engineering plan, working in sprints to build, deliver
+& deploy the code.
+
+If you are an experienced JavaScript developer comfortable with NextJS, React,
+Remix and associated frameworks and are looking for a new challenge then ready
+on to see if this could be the role for you….
+
+**Role Responsibilities**
+
+  * Design and implement high-performance, scalable web applications using JavaScript and related technologies
+  * Engage with other parts of the Engineering / Development team as well as the Product function to facilitate the development & delivery of platform functionality requirements
+  * Write clean, maintainable, and efficient code
+  * Continuously discover, evaluate, and implement new technologies to improve development efficiency
+  * Contribute to the conversation to bring ideas on improvement, technology development and iteration 
+  * Troubleshoot and debug issues across the full stack
+  * Write automated tests to ensure code quality and maintainability
+  * Participate in code reviews and provide feedback to other team members
+  * Keep up-to-date with the latest web development trends and technologies
+  * Contribute to the development of technical documentation
+
+**Applicant Requirements**
+
+  * Extensive experience in software development including working directly as a Full Stack JavaScript developer
+  * Strong experience with JavaScript, Node.js, React, and related technologies
+  * Previous experience receiving product design requirements and turning them into user interfaces
+  * Experience with TypeScript
+  * Experience with database technologies such as PostgreSQL, MySQL, or MongoDB
+  * Experience with server-side technologies (Next.js strongly preferred)
+  * Strong understanding of web application architecture and design patterns
+  * Experience with unit testing and integration testing frameworks such as Playwright, Cypress, or Jest
+  * Experience with Git and version control best practices
+  * Debugging and troubleshooting skills
+  * Ability to work in a fast-paced, deadline-driven environment
+  * Experience working in a fully remote company (preferred) 
+  * Experience with Google Cloud (preferred), AWS, or other cloud platforms
+  * Experience with Docker (preferred)
+  * Experience with shell scripting (preferred)
+  * Experience with Agile development methodologies (preferred)
+  * A bachelor's degree in computer science or a related field (preferred but not mandatory).
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Remote Crypto
+Jobs](https://cryptojobslist.com/remote), [Community Crypto
+Jobs](https://cryptojobslist.com/community), [Security Web3
+Jobs](https://cryptojobslist.com/security), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Crypto
+Jobs](https://cryptojobslist.com/engineering), [React Web3
+Jobs](https://cryptojobslist.com/react), [Javascript Crypto
+Jobs](https://cryptojobslist.com/javascript), [Typescript Web3
+Jobs](https://cryptojobslist.com/typescript), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

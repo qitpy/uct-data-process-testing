@@ -1,0 +1,86 @@
+## Job Description
+
+ **Role Overview**
+
+You will be part of an organization focused on delivering a world-class self-
+custodial wallet for app users of digital assets.
+
+In this role, you will lead a team of around 20 highly skilled and talented
+professionals (5 internal, and a 15-person outsourced team in Europe)
+responsible for delivering RockWallet features. Your team follows a
+disciplined process to prioritize, design, develop, build, and maintain
+applications, their backend service portals and the supporting blockchain
+infrastructure. As a leader in this organization, you will have a proven track
+record of building and delivering front and back-end apps to demanding
+customers and internal stakeholders.
+
+You will be working closely with product management, architects, engineering-
+operations, SREs, finance-operations, support and other subject matter
+experts. You will report to the CTO and engage directly with the executive
+team.
+
+This role has been designated as ‘Remote’, which means you will primarily work
+remotely. Some international travel is required. Your team is located
+primarily in GMT+1 time zone, so you will be expected to adjust your schedule
+to be available during most of this workday, followed by most of the day in
+the GMT-5 time zone.
+
+RockWallet strives to excel in continuous learning and adopting digital asset
+best practices. You will need to embrace and foster this culture; feel
+comfortable challenging the status quo and driving changes in financial
+technology.
+
+If you are a Fintech / Crypto / Digital Asset enthusiast, with a passion for
+user acquisition, a strategic mindset, and a proven track record of success,
+who thrives in a fast-paced, collaborative environment, and is ready to take
+on a high-impact role, we would love to hear from you!
+
+Reporting to the Chief Technology Officer, the Director of Software
+Development will be responsible for the following duties and obligations:
+
+**Key Responsibilities:**
+
+  * Lead and manage a high-performing engineering team
+  * Plan and allocate resources, meet goals, and priorities based on business and technology roadmap
+  * Communicate and collaborate effectively across disciplines such as Engineering Operations, Financial Operations, Product Management, Customer Care, Quality, Marketing and other teams/stakeholders to gain commitments on dependencies, improvements and remediations
+  * Actively engage in technical discussions, project execution and incident management to ensure that goals are met or exceeded
+  * Apply broad perspective/system-level thinking to drive efficient solutions and ensure security of all customer funds
+  * Promote the adoption of industry best practices for financial technology applications
+
+**Education and Experience Required:**
+
+  * Bachelor's or Engineering degree in Computer Science, Electrical Engineering, or a related field
+  * 7+ years’ professional experience in software product development, with 3+ years as a leader
+  * Experience in the cryptocurrency industry is a plus
+
+**Knowledge and Skills**
+
+  * Strong leadership skills, including coaching, team-building, and conflict resolution.
+  * Proven ability to lead/mentor and grow geographically distributed teams across time zones and cultures.
+  * Experience in anticipating operational needs and impact on the business, function, or department.
+  * Advanced relationship management skills, including partnering and consulting with senior management and executive roles for internal and external partners.
+  * Has familiarity with various security best practices and tools.
+  * Results-oriented, with a proven track record of success technically leading an engineering team.
+  * Deep understanding and experience of software development and life cycle (working knowledge of JIRA desired).
+  * Advanced communication skills catered to a wide variety of audiences (e.g. written, verbal, and presentation).
+  * Demonstrated versatility and strong analytical and problem-solving skills.
+  * Ability to take extreme ownership over your work
+  * A passion for software development and a commitment to continued learning and growth
+  * Collaborative and open-minded
+  * Ability to work in a fast-paced, dynamic environment and adapt to changing priorities.
+
+**We offer:**
+
+  * A competitive salary
+  * Diverse and dynamic work environment
+  * Work-life balance and support for career development
+
+_We thank all interested applicants, however, only those under consideration
+will be contacted._
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [Devops Web3
+Jobs](https://cryptojobslist.com/devops), [Web3 Web3
+Jobs](https://cryptojobslist.com/web3), [Lead Level Web3
+Jobs](https://cryptojobslist.com/lead-level).
+

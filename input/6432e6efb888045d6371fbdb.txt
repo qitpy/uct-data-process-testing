@@ -1,0 +1,56 @@
+## Job Description
+
+We are looking for software engineers to help us build a decentralized
+protocol to connect market data providers to DeFi applications. This task
+includes building the on-chain programs, developer SDKs, tooling, monitoring,
+frontends and more. We also need help defining the product itself, so we are
+looking for people who understand the DeFi ecosystem and can help us identify
+and capitalize on new opportunities.
+
+**About Us and the Job**
+
+  * We are a small team. About half the team is technical; the other half manages relationships with data providers, developers, and the broader community. (Building a network requires talking to people!)
+  * We are mostly remote. Team members live across the world, in the US, Europe, and Asia. We do have offices in some locations (Porto, Chicago, London, Amsterdam, Singapore) for those who prefer in-office work.
+  * Our team communicates with each other and external developers in English. Strong spoken and written English skills are required.
+  * We operate like a startup in the rapidly-growing and changing DeFi ecosystem. In order to be successful, we must adapt to meet the current needs of the market. Good candidates will help our organization adapt; they are flexible problem solvers who are willing and able to jump on whatever the occasion demands.
+  * Most of our software development is open source. You can look at our [github repositories](https://github.com/pyth-network/) to understand what we typically work on.
+  * Our success depends on external developers using our price feeds, so a great developer experience is critical to our success. Good candidates will be able to empathize with developers and build elegant, easy-to-use APIs to fit their needs. They will also be able to produce clear developer documentation for these APIs.
+  * We offer a competitive salary and generous benefits package. Furthermore, where applicable, employees may be eligible for token allocations as part of Pyth Network’s employee incentive program.
+
+**What You'll Do:**
+
+  * Collaborate to design, build, and maintain on- and off-chain Pyth related applications, including smart contracts on multiple layer-1 runtimes, developer SDKs, frontends, and various utility programs.
+  * Work with business development, sales, and other functions to determine the long-term roadmap for the project. This is your chance to guide the future of finance.
+  * Mentor junior engineers -- lead by example and provide targeted feedback on software design and documentation to help team members grow.
+  * Assist the broader community of developers to build applications using Pyth Network data. Speak with developers over chat or at conferences to understand their needs. Develop SDKs, documentation, and other artifacts for this audience.
+
+**Skills You'll Need:**
+
+  * Strong software engineering skills. Relevant experience building and operating large, safety-critical systems is a plus. Blockchain development experience is not strictly required for this position; we expect that most engineers will be able to learn on the job.
+  * Ability to work in a startup-like fast-paced environment to meet the demands of a rapidly-changing market.
+  * Familiarity or willingness to learn Rust, Solidity, Python, Typescript and C++.
+  * Excellent technical communication skills for interacting with non-technical team members and external developers.
+  * Ability to work with engineers of different experience levels. Technical leadership experience is a plus.
+  * Ability to handle periodic on-call duties
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Non Tech Crypto
+Jobs](https://cryptojobslist.com/non-tech), [Sales Web3
+Jobs](https://cryptojobslist.com/sales), [Community Web3
+Jobs](https://cryptojobslist.com/community), [Business Development Web3
+Jobs](https://cryptojobslist.com/business-development), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Engineering Web3
+Jobs](https://cryptojobslist.com/engineering), [Rust Web3
+Jobs](https://cryptojobslist.com/rust), [Python Web3
+Jobs](https://cryptojobslist.com/python), [Senior Web3
+Jobs](https://cryptojobslist.com/senior), [Junior Level Crypto
+Jobs](https://cryptojobslist.com/junior-level), [C++ Web3
+Jobs](https://cryptojobslist.com/c-plus-plus), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [DeFi Crypto
+Jobs](https://cryptojobslist.com/defi), [Finance Web3
+Jobs](https://cryptojobslist.com/finance), [Frontend Web3
+Jobs](https://cryptojobslist.com/frontend), [Data Web3
+Jobs](https://cryptojobslist.com/data), [Solidity Web3
+Jobs](https://cryptojobslist.com/solidity), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

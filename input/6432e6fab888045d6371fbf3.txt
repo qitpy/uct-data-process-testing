@@ -1,0 +1,82 @@
+## Job Description
+
+ **About Wintermute**[Wintermute](https://www.wintermute.com/) is a leading
+market maker of digital assets globally. We manage hundreds of millions in
+assets and trade more than $1B+/day across dozens of different trading
+platforms. Culturally, we combine 1) the best-in-class trading and technology
+professionalism coming from 70+ years of combined team’s expertise in
+traditional HFT companies like Optiver and 2) technology startup culture, as
+we are moving very fast and empowering people to act like owners. Wintermute
+provides liquidity algorithmically across most vested exchanges in crypto,
+across CeFi and DeFi, on-screen and OTC, as well as supporting high profile
+blockchain projects. At Wintermute, we believe in the decentralization of
+finance and we believe that trading companies of the future are technology
+companies, not financial services providers.Wintermute is a proprietary
+trading business. We are a Series B highly profitable startup backed by
+[Lightspeed](https://medium.com/lightspeed-venture-partners/wintermute-makes-
+sure-you-dont-get-ripped-off-when-you-buy-crypto-63aa96dcb983), Pantera
+Capital, Sino Global Capital, [Blockchain.com](http://blockchain.com/)
+Ventures and other top tier investors. Learn more about our team and culture
+on our website and Evgeny’s post [here](https://medium.com/wintermute-
+trading/building-a-technology-company-for-the-future-9a6798449763). **Working
+at Wintermute** We are looking for a C++ Software Engineer who is passionate
+about technology, interested in both low level details of how computer
+hardware operates and high-level design of large systems. Someone who likes
+opening the hood to see how things work, has understanding of data structures,
+experience writing client-server network applications, and writing and
+optimising code for highperformance. We welcome your previous experience from
+your own personal projects as well as commercial experience. Interest in
+algorithmic trading is a plus. At Wintermute you will have an opportunity to
+grow and make direct impact on trading by developing and improving all the
+parts of the trading platform and related software, while also getting advice
+and guidance from very experienced developers and traders, including the
+founders. You will get a lot of independence and responsibility right away,
+and you'll learn at an unprecedented speed! No legacy systems, no corporate
+bureaucracy, no multiple levels of approvals. It is up to you to make an
+impact! You will work alongside exceptionally sharp colleagues, learn how to
+write fail-safe code and improve performance and scalability of the trading
+system, a real challenge and a rare opportunity! **What will you work on** A
+great advantage of this position is that it is varied, and it is also up to
+you to shape it in the direction that matches your talents and company needs.
+Projects may include connecting to a new exchange, upgrading major trading
+system components, designing a completely new application from scratch,
+working on implementation of pricing models. We will share more technical
+details in the interviews. You will have opportunity to improve your knowledge
+of software optimisations, of building robust large-scale systems and to
+understand crypto currency trading.
+
+### Hard Skills requirements
+
+    * At least 2 years experience with C++ - we will test
+    * Understanding networking and implementing client-server connections - we will test
+    * Experience with looking under the hood to see how C++ standard libraries work - we will test
+    * Strong analytical skills - we will test
+
+### Write to us if you
+
+    * Love coding, love problem solving, and love seeing your products work
+    * Love building things
+    * Are curious about algorithmic trading and financial markets
+    * Are determined, ambitious yet humble, willing to work hard and learn on the way
+    * Like meritocracy and being judged by what you deliver
+    * Like working like an owner and not like a 9-to-5 "work to pay bills" or contractor
+    * Like working in the team environment (not fully remote), at least half-time working from our London office (COVID restrictions allowing)
+
+### Tips for a successful application
+
+    * Only apply to us if you are genuinely interested or curious about this role; this is not for someone who is just looking for "a job"
+    * Write us a short, honest, and direct message if you'd like to apply. Tell us about why you are interested in C++ development at Wintermute. Do not send us generic copy paste applications, we are looking for authentic people who share our interests, values and ambitions!
+    * We are able to arrange a UK visa sponshorship for the right candidates
+
+[Apply for this job](https://jobs.lever.co/wintermute-
+trading/8c31337e-9989-4cf2-9cab-e876cbc96f10/apply)
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Remote Web3
+Jobs](https://cryptojobslist.com/remote), [Trading Web3
+Jobs](https://cryptojobslist.com/trading), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Exchange Crypto
+Jobs](https://cryptojobslist.com/exchange), [DeFi Web3
+Jobs](https://cryptojobslist.com/defi), [Finance Web3
+Jobs](https://cryptojobslist.com/finance), [Data Crypto
+Jobs](https://cryptojobslist.com/data).
+

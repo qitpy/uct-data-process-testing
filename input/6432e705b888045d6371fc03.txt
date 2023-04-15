@@ -1,0 +1,25 @@
+## Job Description
+
+Web3Auth is a VC-backed company that works on applied cryptography and we
+specialize in private key management software. Our company vision is to
+proliferate the usage of cryptographic keys to enable use cases that empower
+the individual. Our solution allows for applications to setup a public key
+infrastructure while maintaining flows that end-users are familiar with. You
+can (git) check out all of our open-source code at
+<https://github.com/torusresearch>. We’re heavily execution-driven, flexible
+and impact-focused.Our aim is to provide a seamless user experience to the
+applications that integrate us, ultimately driving adoption in the ecosystem.
+You will work hands-on on Web3Auth, various tools and rapidly deliver
+innovative solutions. As a key member of the development team, the candidate
+should be comfortable with driving technical ideas and communicating clearly
+with technical as well as non-technical audiences. **What we offer** We offer
+competitive salaries and a dynamic, fast-paced work environment. If you are
+passionate about creating impact and itching to gain exposure in blockchain
+technology, we encourage you to apply!
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Devops Web3
+Jobs](https://cryptojobslist.com/devops), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Senior Crypto
+Jobs](https://cryptojobslist.com/senior), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

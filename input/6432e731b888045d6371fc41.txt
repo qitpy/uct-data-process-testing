@@ -1,0 +1,47 @@
+## Job Description
+
+We are looking for an exceptional developer with proficiency in MVC
+applications development to build backend APIs, CMS, and services that power
+UNXD interacting with smart contracts, as well as front-end web3 interfaces
+that interact with backend code. This role reports to the Head of Technology.
+
+**Key Responsibilities**
+
+  * Develop backend APIs, CMS, and services that power UNXD interacting with smart contracts for all the projects and activities.
+  * Deploy alterations and updates to GitHub and Azure DevOps service.
+  * Build front-end web3 interfaces that interact with your backend code.
+  * Conceptualize ideas and scope the development of each project and activity and rollout implementation. Managing the project plan and timeline of each workstream is essential.
+  * Review and manage the work of other partnering developers to ensure applications and features are accurately implemented.
+  * Track the status of each project/activity to provide a weekly update to the UNXD team and management.
+  * Work closely with the UNXD Studio team to execute projects directly and/or its roster of brands.
+  * Audit and troubleshoot any problems pre-, during, and post-launch of projects/activities.
+
+**Basic Qualifications**
+
+  * 6+ years of development experience with a proven track record of designing, scoping and developing applications.
+  * Bachelor’s degree in Computer Science, Software Engineering, or equivalent work experience.
+  * At least 5 years of experience in Application Development using Angular and front-end technologies such as HTML, CSS, and typescript.
+  * At least 3 years of experience in development using Node.js, Azure DevOps and app services, and MongoDB.
+  * 1+ years of working with blockchain, smart contracts, solidity, and web3 apps.
+  * Expert in developing Single Page Applications (SPA) using angular and node.
+  * Expert-level knowledge of MongoDB and SQL with the ability to write queries & stored procedures.
+  * Solid experience in designing and developing complex prototypes and proofs of concepts (POCs).
+  * Strong written and oral communication skills.
+
+**Candidate’s Profile**
+
+  * You have a strong desire to work in a startup/entrepreneurial environment and play an integral role in the leading web 3 luxury platform.
+  * You are exceptional at project management and can juggle several project milestones under pressure.
+  * You possess strong leadership skills with a team player mindset and inspire people by leading by example.
+  * You are creative and enjoy working with ambiguity and complexity.
+  * You are a strategic thinker that’s able to ideate, conceptualize, and implement.
+  * You have a positive approach to managing workload and deadlines in a fast-paced environment.
+  * You are open-minded and willing to learn, experiment, and progress.
+  * You are passionate about technology, luxury, culture, and blockchain/web3.
+
+Listed in: [Crypto Jobs](https://cryptojobslist.com), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time), [UI/UX Web3
+Jobs](https://cryptojobslist.com/ui-ux).
+

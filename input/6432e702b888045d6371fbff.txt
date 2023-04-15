@@ -1,0 +1,65 @@
+## Job Description
+
+Offchain Labs is building a suite of scaling solutions for Ethereum. This
+includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing
+costs and increasing capacity, without sacrificing Ethereum's security.
+Porting contracts to Arbitrum requires no code changes or downloads since it’s
+compatible with existing Ethereum developer languages and tooling. Arbitrum
+today is the leading Ethereum scaling solution with dominant market share
+including hundreds of apps on the platform and over 50% of all rollup
+liquidity. Our team is extremely passionate and works tirelessly to bridge the
+gap between what blockchain is and what blockchain can be. We strive to
+maintain an atmosphere that fosters innovation and new ideas through
+collaboration, research, and deep discussions. After raising an initial round
+of $3.8M in seed funding in January 2019 and a $20M series A, as well as a
+$100M series B in 2021, we are ready to hire additional team members that have
+an interest in working in the blockchain space and a knack for approaching
+problems in unconventional waysWe are looking for a Product Marketing Lead to
+join our marketing organization and work closely with the other Marketing
+Directors! The ideal candidate will have extensive experience in product
+marketing in the blockchain space. As the Product Marketing Lead, you will
+lead our product marketing efforts, working closely with the product, sales,
+and marketing teams to develop and execute go-to-market strategies that drive
+product adoption, revenue growth, and market share.
+
+### What you'll do:
+
+    * Develop and execute comprehensive product marketing strategies: You will be responsible for developing and executing product marketing strategies for blockchain scaling solutions, including market analysis, customer segmentation, competitive analysis, and product positioning. You will need to have a deep understanding of the blockchain industry and be able to translate technical concepts into value propositions that resonate with our target customers.
+    * Create and deliver product messaging, positioning, and sales enablement materials: You will be responsible for creating and delivering product messaging, positioning, and sales enablement materials that effectively communicate the value proposition of our products to our target customers. This includes developing product collateral, such as white papers, case studies, and product demos, and ensuring that our sales team is equipped with the necessary tools and knowledge to sell our products effectively.
+    * Collaborate with the product team: You will work closely with the product team to define the product roadmap and feature prioritization based on market needs and customer feedback. You will need to have a deep understanding of our product offerings and be able to provide input on product development based on customer needs and market trends.
+    * You will work closely with the sales team to be able to translate the Layer 3 offering to a digestible format for native and non-native prospects.
+    * Partner with the marketing team: You will partner with the marketing team to develop and execute demand-generation programs, including webinars, events, and digital campaigns. You will need to have a deep understanding of marketing tactics and be able to develop campaigns that drive product adoption and revenue growth.
+    * Analyze and report on product marketing performance: You will analyze and report on product marketing performance, providing insights and recommendations for continuous improvement. You will need to have strong analytical skills and be able to use data to inform your decisions and recommendations.
+    * Stay up-to-date on industry trends and customer needs: You will need to stay up-to-date on industry trends, competitive landscape, and customer needs to ensure our product marketing strategies remain relevant and effective. You will need to be proactive in researching and analyzing industry trends and using this information to inform your product marketing strategies
+
+### Who you are:
+
+    * Bachelor's degree in marketing, business, or a related field.
+    * 7+ years of experience in product marketing for technology companies, with a focus on blockchain solutions.
+    * Strong understanding of blockchain technology and its applications in various industries. Excellent communication and interpersonal skills, with the ability to influence and collaborate across teams.
+    * Proven track record of developing and executing successful go-to-market strategies that drive revenue growth and market share.
+    * Experience in sales enablement, including developing product demos, training, and collateral.
+    * Strong analytical skills, with the ability to analyze data and provide insights and recommendations for continuous improvement. Data-driven and experimental in how you approach and measure your work
+    * Results-driven with a strong sense of accountability and ownership.
+    * Experience hiring, coaching, and managing direct report(s)
+    * Excellent written and oral communication skills to articulate and communicate customer problems and the product story
+    * You have excellent presentation and interpersonal skills, with the ability to present to audiences of all levels and sizes (company-wide to Executive team).
+
+At Offchain Labs, we believe that diversity, equity, inclusion and belonging
+are essential to our success. We are committed to building a welcoming and
+supportive workplace for all employees, regardless of their background or
+identity. We strive to create an environment where everyone feels valued and
+has an equal opportunity to succeed and thrive. We encourage candidates from
+all walks of life to apply and join our team.
+
+Listed in: [Cryptocurrency Jobs](https://cryptojobslist.com), [Marketing
+Crypto Jobs](https://cryptojobslist.com/marketing), [Research Crypto
+Jobs](https://cryptojobslist.com/research), [Sales Web3
+Jobs](https://cryptojobslist.com/sales), [Security Crypto
+Jobs](https://cryptojobslist.com/security), [Developer Web3
+Jobs](https://cryptojobslist.com/developer), [Executive Web3
+Jobs](https://cryptojobslist.com/executive), [Data Crypto
+Jobs](https://cryptojobslist.com/data), [Ethereum Crypto
+Jobs](https://cryptojobslist.com/ethereum), [Full Time Crypto
+Jobs](https://cryptojobslist.com/full-time).
+

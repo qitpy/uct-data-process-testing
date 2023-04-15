@@ -1,0 +1,58 @@
+## Job Description
+
+###  **About Otherlife**
+
+Otherlife by MoonPay is a creative studio specializing in Web3 product
+strategy, design, development, and branding for the world’s leading companies
+and brands including Arsenal Football Club, Coinbase, OpenSea, and Shopify.
+
+### **What you’ll do 👀**
+
+We are seeking a Junior Full Stack Developer to join our team. The ideal
+candidate will have experience with React, Next.js, GSAP, Tailwind, and
+TypeScript. This individual will be responsible for building and maintaining
+web applications, working with a team of developers, and collaborating with
+other departments to deliver high-quality software solutions.
+
+  * **_Note: This role requires a minimum of 2 years in an Full Stack Developer role (or higher) within an agency setting. Candidates without this experience will not be considered_**.
+
+### **You should apply if ✅**
+
+**Key Responsibilities, Skills & Experience:**
+
+  * Develop and maintain web applications using React, Next.js, GSAP, Tailwind, and TypeScript
+  * Collaborate with other developers to ensure code quality and consistency
+  * Work with other departments to understand and implement their requirements into the web application
+  * Write clean, maintainable, and efficient code
+  * Participate in code reviews and provide constructive feedback to other team members
+  * Stay up-to-date with the latest web development technologies and best practices
+  * 2-3+ years of experience in web development
+  * Strong experience with React, Next.js, GSAP, Tailwind, and TypeScript
+  * Experience with Git and version control
+
+**Bonus Qualifications:**
+
+  * Experience working with crypto, NFTs, blockchain technology and Web3
+  * Strong problem-solving and analytical skills
+  * Excellent communication and collaboration skills
+  * Ability to work independently and as part of a team
+
+### **Otherlife Perks ⚡️**
+
+  * Health & dental benefits
+  * Company events
+  * Access to special events
+  * Office lunches
+  * Swag/merch
+  * Paid vacation time
+
+#LI-Onsite
+
+Listed in: [Web3 Jobs](https://cryptojobslist.com), [Developer Crypto
+Jobs](https://cryptojobslist.com/developer), [Web3 Crypto
+Jobs](https://cryptojobslist.com/web3), [React Crypto
+Jobs](https://cryptojobslist.com/react), [Junior Level Crypto
+Jobs](https://cryptojobslist.com/junior-level), [Typescript Crypto
+Jobs](https://cryptojobslist.com/typescript), [Full Time Web3
+Jobs](https://cryptojobslist.com/full-time).
+
