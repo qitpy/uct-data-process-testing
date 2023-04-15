@@ -141,4 +141,8 @@ Jobs](https://cryptojobslist.com/developer).
 - All the input job raw files is in the `/input` folder
 - All of your output will be in the `/output` folder
 - All you need to do is write your code in `handle.py` file, specifically is in `handle` function.
--
+- To test your result, just the command:
+
+```python
+python3 handle.py
+```
