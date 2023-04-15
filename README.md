@@ -1,6 +1,6 @@
 # Overview
 
-\***\*Descriptions\*\***: We crawled Jobs data from some websites. But we have an issues:  
+**Descriptions**: We crawled Jobs data from some websites. But we have an issues:  
 `**Job structure in every job file is different with each others.**`
 
 All we need from Job data is about these fields:
