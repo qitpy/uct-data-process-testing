@@ -2,6 +2,5 @@
     "about": "",
     "requirement": "",
     "responsibilities": "",
-    "benefit": "",
     "compensation": ""
 }

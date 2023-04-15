@@ -2,11 +2,12 @@ from src.prepare.process_job import load_input, load_output
 from src.prepare.converting_json_data_to_files import converting_json_data_to_files
 from src.prepare.model import Job
 
+
 def handle(job_input: str) -> Job:
     # print(job_input)
     converted_job = Job()
 
-    # ---- TODO: convert input_job_text to Job object ----
+    # ---- TODO: convert job_input to Job object ----
     # ---- Your code ------------------------------------
 
 
@@ -15,15 +16,15 @@ def handle(job_input: str) -> Job:
 
 
 
-
+    # Field that you need to fill in
+    converted_job.about = ""
     converted_job.requirement = ""
     converted_job.responsibilities = ""
-    converted_job.about = ""
-    converted_job.benefit = ""
     converted_job.compensation = ""
     # ---------------------------------------------------
 
     return converted_job
+
 
 if __name__ == "__main__":
 
