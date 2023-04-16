@@ -5,7 +5,7 @@
 
 All we need from Job data is about these fields:
 
-- **Job requirement**: refer to the qualifications, skills, and experience that are necessary for an individual to perform a specific job
+- **Job minimum requirement**: refer to the qualifications, skills, and experience that are necessary for an individual to perform a specific job
 - **Job preferred requirement**: refer to any other reference from job. ex: "nice to have",...
 - **Job responsibilities**: refer to the specific duties and tasks that an employee is expected to perform as part of their job
 - **Job compensation**: refers to the total amount of pay and benefits that an employer provides to an employee in exchange for their work.
@@ -89,7 +89,7 @@ Jobs](https://cryptojobslist.com/developer).
         also have the chance to dive deep into new blockchain protocols, run testnets,
         build secure and scalable infra and maintain it.
         ",
-    "requirement": "
+    "minimum_requirement": "
         #### Requirements
 
         * A BSc/BA degree in Computer Science or a relevant field

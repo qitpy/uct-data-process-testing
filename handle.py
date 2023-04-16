@@ -30,7 +30,7 @@ def handle(job_input: str) -> Job:
     # ---------------------------------------------------
 
     converted_job.about = ""
-    converted_job.requirement = ""
+    converted_job.minimum_requirement = ""
     converted_job.preferred_requirement = ""
     converted_job.responsibilities = ""
     converted_job.compensation = ""
